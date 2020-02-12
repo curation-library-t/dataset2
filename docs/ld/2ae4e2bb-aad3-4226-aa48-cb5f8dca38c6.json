@@ -1,0 +1,179 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation-library-t.github.io/dataset2/ld/2ae4e2bb-aad3-4226-aa48-cb5f8dca38c6.json",
+    "@type": "o:Item",
+    "dcndl:holdingAgent": [
+        {
+            "@value": "工3号館図書室 / Engineering Bldg. 3 Library",
+            "is_public": true,
+            "property_id": 258,
+            "property_label": "Holding Agent",
+            "type": "literal"
+        }
+    ],
+    "dcndl:materialType": [
+        {
+            "@value": "写真 / Photograph",
+            "is_public": true,
+            "property_id": 239,
+            "property_label": "Material Type",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "2019年度東京大学デジタルアーカイブズ構築事業により電子化",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "なし",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:extent": [
+        {
+            "@value": "オリジナル: 写真44.5×57.5cm, 台紙57.7×74.5cm",
+            "is_public": true,
+            "property_id": 25,
+            "property_label": "Extent",
+            "type": "literal"
+        },
+        {
+            "@value": "キャビネサイズ複製: 13×18cm",
+            "is_public": true,
+            "property_id": 25,
+            "property_label": "Extent",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "2ae4e2bb-aad3-4226-aa48-cb5f8dca38c6",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "uri"
+        }
+    ],
+    "dcterms:relation": [
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/s/db/record/2ae4e2bb-aad3-4226-aa48-cb5f8dca38c6",
+            "is_public": true,
+            "property_id": 13,
+            "property_label": "Relation",
+            "type": "uri"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/s/db/page/license",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:subject": [
+        {
+            "@value": "三井鉱山",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        },
+        {
+            "@value": "神岡鉱山",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        },
+        {
+            "@value": "Mitsui Kozan",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        },
+        {
+            "@value": "Kamioka Mine",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "神岡銀山沈澱製煉場. Lixiviation Plant, Kamioka Silver Mine",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-08-23T05:34:10+00:00"
+    },
+    "o:id": 75871,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/item_sets/75862",
+            "o:id": 75862
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/item_sets/75864",
+            "o:id": 75864
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/75907",
+            "o:id": 75907
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/75926",
+            "o:id": 75926
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-09-03T07:25:31+00:00"
+    },
+    "o:owner": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/users/4",
+        "o:id": 4
+    },
+    "o:resource_class": null,
+    "o:resource_template": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/resource_templates/13",
+        "o:id": 13
+    },
+    "o:thumbnail": null,
+    "uterms:manifestUri": [
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/2ae4e2bb-aad3-4226-aa48-cb5f8dca38c6/manifest",
+            "is_public": true,
+            "property_id": 386,
+            "property_label": "Manifest Uri",
+            "type": "uri"
+        }
+    ]
+}
