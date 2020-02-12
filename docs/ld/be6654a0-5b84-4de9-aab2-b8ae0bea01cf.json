@@ -1,0 +1,243 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation-library-t.github.io/dataset2/ld/be6654a0-5b84-4de9-aab2-b8ae0bea01cf.json",
+    "@type": "o:Item",
+    "dcndl:holdingAgent": [
+        {
+            "@value": "工7号館図書室 / Engineering Bldg. 7 Library",
+            "is_public": true,
+            "property_id": 258,
+            "property_label": "Holding Agent",
+            "type": "literal"
+        }
+    ],
+    "dcndl:location": [
+        {
+            "@value": "航空学科",
+            "is_public": true,
+            "property_id": 265,
+            "property_label": "Location",
+            "type": "literal"
+        }
+    ],
+    "dcndl:materialType": [
+        {
+            "@value": "卒業論文 / Thesis",
+            "is_public": true,
+            "property_id": 239,
+            "property_label": "Material Type",
+            "type": "literal"
+        }
+    ],
+    "dcterms:alternative": [
+        {
+            "@value": "矩形波形鈑の捩りに就いての実験報告",
+            "is_public": true,
+            "property_id": 17,
+            "property_label": "Alternative Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:creator": [
+        {
+            "@language": "ja",
+            "@value": "福井 外海",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Fukui Sotomi",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1937年12月（1938）",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "be6654a0-5b84-4de9-aab2-b8ae0bea01cf",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "uri"
+        }
+    ],
+    "dcterms:language": [
+        {
+            "@value": "日本語 / Japanese",
+            "is_public": true,
+            "property_id": 12,
+            "property_label": "Language",
+            "type": "literal"
+        }
+    ],
+    "dcterms:relation": [
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/s/db/record/be6654a0-5b84-4de9-aab2-b8ae0bea01cf",
+            "is_public": true,
+            "property_id": 13,
+            "property_label": "Relation",
+            "type": "uri"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/s/db/page/license",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "矩形波形鈑ノ捩リニ就イテノ實験報告",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-01-10T08:23:36+00:00"
+    },
+    "o:id": 78559,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/item_sets/66049",
+            "o:id": 66049
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/item_sets/75862",
+            "o:id": 75862
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/78782",
+            "o:id": 78782
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/78783",
+            "o:id": 78783
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/78784",
+            "o:id": 78784
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/78785",
+            "o:id": 78785
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/78786",
+            "o:id": 78786
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/78787",
+            "o:id": 78787
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/78788",
+            "o:id": 78788
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/78789",
+            "o:id": 78789
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/78790",
+            "o:id": 78790
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/78791",
+            "o:id": 78791
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/78792",
+            "o:id": 78792
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/78793",
+            "o:id": 78793
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/78794",
+            "o:id": 78794
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/78795",
+            "o:id": 78795
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/78796",
+            "o:id": 78796
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/78797",
+            "o:id": 78797
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/78798",
+            "o:id": 78798
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/78799",
+            "o:id": 78799
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/78800",
+            "o:id": 78800
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/78801",
+            "o:id": 78801
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-01-15T08:18:20+00:00"
+    },
+    "o:owner": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/users/4",
+        "o:id": 4
+    },
+    "o:resource_class": null,
+    "o:resource_template": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/resource_templates/13",
+        "o:id": 13
+    },
+    "o:thumbnail": null,
+    "uterms:manifestUri": [
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/be6654a0-5b84-4de9-aab2-b8ae0bea01cf/manifest",
+            "is_public": true,
+            "property_id": 386,
+            "property_label": "Manifest Uri",
+            "type": "uri"
+        }
+    ]
+}
