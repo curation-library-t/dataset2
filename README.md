@@ -1,8 +1,8 @@
-# Digital Cultural Heritage - データセット
+# 工学史料キュレーションデータベース - データセット
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)  
 
-[Digital Cultural Heritage](https://dch.iii.u-tokyo.ac.jp)（以下、DCH）で公開するコレクションのデータセットを公開します。
+[工学史料キュレーションデータベース](https://curation.library.t.u-tokyo.ac.jp/)（以下、キュレーションDB）で公開するコレクションのデータセットを公開します。
 
 不定期にデータ更新を行います。
 

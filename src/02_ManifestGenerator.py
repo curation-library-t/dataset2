@@ -9,7 +9,7 @@ import yaml
 import shutil
 
 f = open("settings.yml", "r+")
-settings = yaml.load(f)
+settings = yaml.load(f, Loader=yaml.FullLoader)
 
 prefix = settings["github_pages_url"]
 
@@ -27,7 +27,7 @@ if os.path.exists(manifest_path):
     shutil.rmtree(manifest_path)
 os.makedirs(manifest_path, exist_ok=True)
 
-manifest_uri_prefix = prefix +  "/iiif/item"
+manifest_uri_prefix = prefix + "/iiif/item"
 
 collection = dict()
 collection["@context"] = "http://iiif.io/api/presentation/2/context.json"
