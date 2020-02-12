@@ -1,0 +1,2 @@
+python 01_ItemGenerator.py
+python 02_ManifestGenerator.py
