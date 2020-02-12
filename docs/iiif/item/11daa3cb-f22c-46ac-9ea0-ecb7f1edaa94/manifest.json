@@ -1,0 +1,1171 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://curation-library-t.github.io/dataset2/iiif/item/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学工学・情報理工学図書館 Libraries for Engineering and Information Science & Technology, The University of Tokyo, JAPAN",
+    "label": "An Essay on Rock Blasting. Specification of the Hand Pump",
+    "license": "https://curation.library.t.u-tokyo.ac.jp/s/db/page/license",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "metadata": [
+        {
+            "label": "タイトル / Title",
+            "value": "An Essay on Rock Blasting. Specification of the Hand Pump"
+        },
+        {
+            "label": "著者・作成者 / Creator",
+            "value": [
+                "大島 六郎",
+                "Oshima Rokuro"
+            ]
+        },
+        {
+            "label": "別表記タイトル / Other Title",
+            "value": "岩石爆破"
+        },
+        {
+            "label": "種別 / Type",
+            "value": "卒業論文 / Thesis"
+        },
+        {
+            "label": "言語 / Language",
+            "value": "英語 / English"
+        },
+        {
+            "label": "年月日 / Date",
+            "value": "1882"
+        },
+        {
+            "label": "専攻 / Department",
+            "value": "採鉱及冶金学科"
+        },
+        {
+            "label": "所蔵図書室 / Holding Library",
+            "value": "工4号館図書室 / Engineering Bldg. 4 Library"
+        },
+        {
+            "label": "Identifier",
+            "value": "11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/manifest"
+        }
+    ],
+    "related": "https://www.kanzaki.com/works/2016/pub/image-annotator?u=https://curation-library-t.github.io/dataset2/iiif/item/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/manifest.json",
+    "seeAlso": "https://curation-library-t.github.io/dataset2/ld/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94.json",
+    "sequences": [
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 3000,
+                    "images": [
+                        {
+                            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p1",
+                            "resource": {
+                                "@id": "https://curation.library.t.u-tokyo.ac.jp/files/original/867f9e48cd9e8128c193488e1d33195eef044c74.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3000,
+                                "width": 3760
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/867f9e48cd9e8128c193488e1d33195eef044c74.jpg"
+                    },
+                    "width": 3760
+                },
+                {
+                    "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p2",
+                    "@type": "sc:Canvas",
+                    "height": 3000,
+                    "images": [
+                        {
+                            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/annotation/p0002-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p2",
+                            "resource": {
+                                "@id": "https://curation.library.t.u-tokyo.ac.jp/files/original/7c6828f2811ea968f1981de1990fb47703f38d9b.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3000,
+                                "width": 3760
+                            }
+                        }
+                    ],
+                    "label": "[2]",
+                    "thumbnail": {
+                        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/7c6828f2811ea968f1981de1990fb47703f38d9b.jpg"
+                    },
+                    "width": 3760
+                },
+                {
+                    "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p3",
+                    "@type": "sc:Canvas",
+                    "height": 3000,
+                    "images": [
+                        {
+                            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/annotation/p0003-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p3",
+                            "resource": {
+                                "@id": "https://curation.library.t.u-tokyo.ac.jp/files/original/d4b57d3005961921f3bff7fff76f7a6f9ef118e3.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3000,
+                                "width": 3760
+                            }
+                        }
+                    ],
+                    "label": "[3]",
+                    "thumbnail": {
+                        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/d4b57d3005961921f3bff7fff76f7a6f9ef118e3.jpg"
+                    },
+                    "width": 3760
+                },
+                {
+                    "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p4",
+                    "@type": "sc:Canvas",
+                    "height": 3000,
+                    "images": [
+                        {
+                            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/annotation/p0004-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p4",
+                            "resource": {
+                                "@id": "https://curation.library.t.u-tokyo.ac.jp/files/original/a3f6ad108b72bf9576e2bf1da7c404fa63150c81.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3000,
+                                "width": 3760
+                            }
+                        }
+                    ],
+                    "label": "[4]",
+                    "thumbnail": {
+                        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/a3f6ad108b72bf9576e2bf1da7c404fa63150c81.jpg"
+                    },
+                    "width": 3760
+                },
+                {
+                    "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p5",
+                    "@type": "sc:Canvas",
+                    "height": 3000,
+                    "images": [
+                        {
+                            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/annotation/p0005-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p5",
+                            "resource": {
+                                "@id": "https://curation.library.t.u-tokyo.ac.jp/files/original/e1268225c366fa1a37ec4fb72f56be156b3cd4c2.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3000,
+                                "width": 3760
+                            }
+                        }
+                    ],
+                    "label": "[5]",
+                    "thumbnail": {
+                        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/e1268225c366fa1a37ec4fb72f56be156b3cd4c2.jpg"
+                    },
+                    "width": 3760
+                },
+                {
+                    "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p6",
+                    "@type": "sc:Canvas",
+                    "height": 3000,
+                    "images": [
+                        {
+                            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/annotation/p0006-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p6",
+                            "resource": {
+                                "@id": "https://curation.library.t.u-tokyo.ac.jp/files/original/f6a490146f26abc3badcfaaef5322c4a6961967c.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3000,
+                                "width": 3760
+                            }
+                        }
+                    ],
+                    "label": "[6]",
+                    "thumbnail": {
+                        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/f6a490146f26abc3badcfaaef5322c4a6961967c.jpg"
+                    },
+                    "width": 3760
+                },
+                {
+                    "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p7",
+                    "@type": "sc:Canvas",
+                    "height": 3000,
+                    "images": [
+                        {
+                            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/annotation/p0007-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p7",
+                            "resource": {
+                                "@id": "https://curation.library.t.u-tokyo.ac.jp/files/original/5a498572d572da8ca7b6abf5f53a53f092e50e2f.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3000,
+                                "width": 3760
+                            }
+                        }
+                    ],
+                    "label": "[7]",
+                    "thumbnail": {
+                        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/5a498572d572da8ca7b6abf5f53a53f092e50e2f.jpg"
+                    },
+                    "width": 3760
+                },
+                {
+                    "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p8",
+                    "@type": "sc:Canvas",
+                    "height": 3000,
+                    "images": [
+                        {
+                            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/annotation/p0008-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p8",
+                            "resource": {
+                                "@id": "https://curation.library.t.u-tokyo.ac.jp/files/original/e61d84a65001e36a776d9b7fdc1b6262eb78f749.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3000,
+                                "width": 3760
+                            }
+                        }
+                    ],
+                    "label": "[8]",
+                    "thumbnail": {
+                        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/e61d84a65001e36a776d9b7fdc1b6262eb78f749.jpg"
+                    },
+                    "width": 3760
+                },
+                {
+                    "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p9",
+                    "@type": "sc:Canvas",
+                    "height": 3000,
+                    "images": [
+                        {
+                            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/annotation/p0009-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p9",
+                            "resource": {
+                                "@id": "https://curation.library.t.u-tokyo.ac.jp/files/original/16455592e67fcb1be9adf7c0a1ae0ffd92042916.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3000,
+                                "width": 3760
+                            }
+                        }
+                    ],
+                    "label": "[9]",
+                    "thumbnail": {
+                        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/16455592e67fcb1be9adf7c0a1ae0ffd92042916.jpg"
+                    },
+                    "width": 3760
+                },
+                {
+                    "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p10",
+                    "@type": "sc:Canvas",
+                    "height": 3000,
+                    "images": [
+                        {
+                            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/annotation/p0010-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p10",
+                            "resource": {
+                                "@id": "https://curation.library.t.u-tokyo.ac.jp/files/original/3cdef1098517f6f699db440fe460636f793f66c6.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3000,
+                                "width": 3760
+                            }
+                        }
+                    ],
+                    "label": "[10]",
+                    "thumbnail": {
+                        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/3cdef1098517f6f699db440fe460636f793f66c6.jpg"
+                    },
+                    "width": 3760
+                },
+                {
+                    "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p11",
+                    "@type": "sc:Canvas",
+                    "height": 3000,
+                    "images": [
+                        {
+                            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/annotation/p0011-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p11",
+                            "resource": {
+                                "@id": "https://curation.library.t.u-tokyo.ac.jp/files/original/e318f8a1ce73b92124af6042c836d7df85352ca4.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3000,
+                                "width": 3760
+                            }
+                        }
+                    ],
+                    "label": "[11]",
+                    "thumbnail": {
+                        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/e318f8a1ce73b92124af6042c836d7df85352ca4.jpg"
+                    },
+                    "width": 3760
+                },
+                {
+                    "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p12",
+                    "@type": "sc:Canvas",
+                    "height": 3000,
+                    "images": [
+                        {
+                            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/annotation/p0012-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p12",
+                            "resource": {
+                                "@id": "https://curation.library.t.u-tokyo.ac.jp/files/original/f1a366c54692b32df717698ebbc21f6ff04226c6.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3000,
+                                "width": 3760
+                            }
+                        }
+                    ],
+                    "label": "[12]",
+                    "thumbnail": {
+                        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/f1a366c54692b32df717698ebbc21f6ff04226c6.jpg"
+                    },
+                    "width": 3760
+                },
+                {
+                    "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p13",
+                    "@type": "sc:Canvas",
+                    "height": 3000,
+                    "images": [
+                        {
+                            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/annotation/p0013-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p13",
+                            "resource": {
+                                "@id": "https://curation.library.t.u-tokyo.ac.jp/files/original/b796c6242d7cf68a986ceb5e42505a94cb0a1d09.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3000,
+                                "width": 3760
+                            }
+                        }
+                    ],
+                    "label": "[13]",
+                    "thumbnail": {
+                        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/b796c6242d7cf68a986ceb5e42505a94cb0a1d09.jpg"
+                    },
+                    "width": 3760
+                },
+                {
+                    "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p14",
+                    "@type": "sc:Canvas",
+                    "height": 3000,
+                    "images": [
+                        {
+                            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/annotation/p0014-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p14",
+                            "resource": {
+                                "@id": "https://curation.library.t.u-tokyo.ac.jp/files/original/e8b5ae8d96110a193a98bd6e58f394f3c789a18e.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3000,
+                                "width": 3760
+                            }
+                        }
+                    ],
+                    "label": "[14]",
+                    "thumbnail": {
+                        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/e8b5ae8d96110a193a98bd6e58f394f3c789a18e.jpg"
+                    },
+                    "width": 3760
+                },
+                {
+                    "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p15",
+                    "@type": "sc:Canvas",
+                    "height": 3000,
+                    "images": [
+                        {
+                            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/annotation/p0015-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p15",
+                            "resource": {
+                                "@id": "https://curation.library.t.u-tokyo.ac.jp/files/original/0c691017e952fe18de3875ba592c17df2610281a.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3000,
+                                "width": 3760
+                            }
+                        }
+                    ],
+                    "label": "[15]",
+                    "thumbnail": {
+                        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/0c691017e952fe18de3875ba592c17df2610281a.jpg"
+                    },
+                    "width": 3760
+                },
+                {
+                    "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p16",
+                    "@type": "sc:Canvas",
+                    "height": 3000,
+                    "images": [
+                        {
+                            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/annotation/p0016-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p16",
+                            "resource": {
+                                "@id": "https://curation.library.t.u-tokyo.ac.jp/files/original/84a66b0afbcc567880684afe0b08590ac5879b2e.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3000,
+                                "width": 3760
+                            }
+                        }
+                    ],
+                    "label": "[16]",
+                    "thumbnail": {
+                        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/84a66b0afbcc567880684afe0b08590ac5879b2e.jpg"
+                    },
+                    "width": 3760
+                },
+                {
+                    "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p17",
+                    "@type": "sc:Canvas",
+                    "height": 3000,
+                    "images": [
+                        {
+                            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/annotation/p0017-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p17",
+                            "resource": {
+                                "@id": "https://curation.library.t.u-tokyo.ac.jp/files/original/7b7ef8ed386de4485a6a5c5d6ca1a24fc077fecf.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3000,
+                                "width": 3760
+                            }
+                        }
+                    ],
+                    "label": "[17]",
+                    "thumbnail": {
+                        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/7b7ef8ed386de4485a6a5c5d6ca1a24fc077fecf.jpg"
+                    },
+                    "width": 3760
+                },
+                {
+                    "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p18",
+                    "@type": "sc:Canvas",
+                    "height": 3000,
+                    "images": [
+                        {
+                            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/annotation/p0018-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p18",
+                            "resource": {
+                                "@id": "https://curation.library.t.u-tokyo.ac.jp/files/original/5fb7ae897477c8a245be927ece5658e44b3dae7e.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3000,
+                                "width": 3760
+                            }
+                        }
+                    ],
+                    "label": "[18]",
+                    "thumbnail": {
+                        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/5fb7ae897477c8a245be927ece5658e44b3dae7e.jpg"
+                    },
+                    "width": 3760
+                },
+                {
+                    "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p19",
+                    "@type": "sc:Canvas",
+                    "height": 3000,
+                    "images": [
+                        {
+                            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/annotation/p0019-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p19",
+                            "resource": {
+                                "@id": "https://curation.library.t.u-tokyo.ac.jp/files/original/8ba6f8cf89305d493853101bb0a63089adcbc3f9.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3000,
+                                "width": 3760
+                            }
+                        }
+                    ],
+                    "label": "[19]",
+                    "thumbnail": {
+                        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/8ba6f8cf89305d493853101bb0a63089adcbc3f9.jpg"
+                    },
+                    "width": 3760
+                },
+                {
+                    "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p20",
+                    "@type": "sc:Canvas",
+                    "height": 3000,
+                    "images": [
+                        {
+                            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/annotation/p0020-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p20",
+                            "resource": {
+                                "@id": "https://curation.library.t.u-tokyo.ac.jp/files/original/ec59b7d075040ef3d58ed33de641a5e01eb15bc4.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3000,
+                                "width": 3760
+                            }
+                        }
+                    ],
+                    "label": "[20]",
+                    "thumbnail": {
+                        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/ec59b7d075040ef3d58ed33de641a5e01eb15bc4.jpg"
+                    },
+                    "width": 3760
+                },
+                {
+                    "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p21",
+                    "@type": "sc:Canvas",
+                    "height": 3000,
+                    "images": [
+                        {
+                            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/annotation/p0021-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p21",
+                            "resource": {
+                                "@id": "https://curation.library.t.u-tokyo.ac.jp/files/original/feefb0bc61376a7eed98c97810ede2b404229a35.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3000,
+                                "width": 3760
+                            }
+                        }
+                    ],
+                    "label": "[21]",
+                    "thumbnail": {
+                        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/feefb0bc61376a7eed98c97810ede2b404229a35.jpg"
+                    },
+                    "width": 3760
+                },
+                {
+                    "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p22",
+                    "@type": "sc:Canvas",
+                    "height": 3000,
+                    "images": [
+                        {
+                            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/annotation/p0022-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p22",
+                            "resource": {
+                                "@id": "https://curation.library.t.u-tokyo.ac.jp/files/original/a057179e0e0999bc7c9d78f1d1a1152c53944d49.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3000,
+                                "width": 3760
+                            }
+                        }
+                    ],
+                    "label": "[22]",
+                    "thumbnail": {
+                        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/a057179e0e0999bc7c9d78f1d1a1152c53944d49.jpg"
+                    },
+                    "width": 3760
+                },
+                {
+                    "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p23",
+                    "@type": "sc:Canvas",
+                    "height": 3000,
+                    "images": [
+                        {
+                            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/annotation/p0023-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p23",
+                            "resource": {
+                                "@id": "https://curation.library.t.u-tokyo.ac.jp/files/original/2670c2d7be7954a134fc8ee779a5fc3bfe0e2730.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3000,
+                                "width": 3760
+                            }
+                        }
+                    ],
+                    "label": "[23]",
+                    "thumbnail": {
+                        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/2670c2d7be7954a134fc8ee779a5fc3bfe0e2730.jpg"
+                    },
+                    "width": 3760
+                },
+                {
+                    "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p24",
+                    "@type": "sc:Canvas",
+                    "height": 3000,
+                    "images": [
+                        {
+                            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/annotation/p0024-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p24",
+                            "resource": {
+                                "@id": "https://curation.library.t.u-tokyo.ac.jp/files/original/f3f458e3ae88ef11ee2e6a2ac8899c7dab040c9f.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3000,
+                                "width": 3760
+                            }
+                        }
+                    ],
+                    "label": "[24]",
+                    "thumbnail": {
+                        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/f3f458e3ae88ef11ee2e6a2ac8899c7dab040c9f.jpg"
+                    },
+                    "width": 3760
+                },
+                {
+                    "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p25",
+                    "@type": "sc:Canvas",
+                    "height": 3000,
+                    "images": [
+                        {
+                            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/annotation/p0025-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p25",
+                            "resource": {
+                                "@id": "https://curation.library.t.u-tokyo.ac.jp/files/original/543a18f51d8e15f332a052806bf0d80d761bdbe9.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3000,
+                                "width": 3760
+                            }
+                        }
+                    ],
+                    "label": "[25]",
+                    "thumbnail": {
+                        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/543a18f51d8e15f332a052806bf0d80d761bdbe9.jpg"
+                    },
+                    "width": 3760
+                },
+                {
+                    "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p26",
+                    "@type": "sc:Canvas",
+                    "height": 3000,
+                    "images": [
+                        {
+                            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/annotation/p0026-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p26",
+                            "resource": {
+                                "@id": "https://curation.library.t.u-tokyo.ac.jp/files/original/2548776e3d4c4cde5b2d417c3b0ffebf91344858.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3000,
+                                "width": 3760
+                            }
+                        }
+                    ],
+                    "label": "[26]",
+                    "thumbnail": {
+                        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/2548776e3d4c4cde5b2d417c3b0ffebf91344858.jpg"
+                    },
+                    "width": 3760
+                },
+                {
+                    "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p27",
+                    "@type": "sc:Canvas",
+                    "height": 3000,
+                    "images": [
+                        {
+                            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/annotation/p0027-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p27",
+                            "resource": {
+                                "@id": "https://curation.library.t.u-tokyo.ac.jp/files/original/868fe68c619e5690dae22ffd6c23c3edd85061d0.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3000,
+                                "width": 3760
+                            }
+                        }
+                    ],
+                    "label": "[27]",
+                    "thumbnail": {
+                        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/868fe68c619e5690dae22ffd6c23c3edd85061d0.jpg"
+                    },
+                    "width": 3760
+                },
+                {
+                    "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p28",
+                    "@type": "sc:Canvas",
+                    "height": 3000,
+                    "images": [
+                        {
+                            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/annotation/p0028-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p28",
+                            "resource": {
+                                "@id": "https://curation.library.t.u-tokyo.ac.jp/files/original/3238980c00349d7ff8d610e4dae6585e0633d43d.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3000,
+                                "width": 3760
+                            }
+                        }
+                    ],
+                    "label": "[28]",
+                    "thumbnail": {
+                        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/3238980c00349d7ff8d610e4dae6585e0633d43d.jpg"
+                    },
+                    "width": 3760
+                },
+                {
+                    "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p29",
+                    "@type": "sc:Canvas",
+                    "height": 3000,
+                    "images": [
+                        {
+                            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/annotation/p0029-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p29",
+                            "resource": {
+                                "@id": "https://curation.library.t.u-tokyo.ac.jp/files/original/08f8ab44431d7122d11af049731fae89c95522a1.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3000,
+                                "width": 3760
+                            }
+                        }
+                    ],
+                    "label": "[29]",
+                    "thumbnail": {
+                        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/08f8ab44431d7122d11af049731fae89c95522a1.jpg"
+                    },
+                    "width": 3760
+                },
+                {
+                    "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p30",
+                    "@type": "sc:Canvas",
+                    "height": 3000,
+                    "images": [
+                        {
+                            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/annotation/p0030-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p30",
+                            "resource": {
+                                "@id": "https://curation.library.t.u-tokyo.ac.jp/files/original/19a6e4d7d5c496ca577a2b5350fccb1aa1fac4e1.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3000,
+                                "width": 3760
+                            }
+                        }
+                    ],
+                    "label": "[30]",
+                    "thumbnail": {
+                        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/19a6e4d7d5c496ca577a2b5350fccb1aa1fac4e1.jpg"
+                    },
+                    "width": 3760
+                },
+                {
+                    "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p31",
+                    "@type": "sc:Canvas",
+                    "height": 3000,
+                    "images": [
+                        {
+                            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/annotation/p0031-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p31",
+                            "resource": {
+                                "@id": "https://curation.library.t.u-tokyo.ac.jp/files/original/1a6649fd52e5ac747334a2b8b3d332cf6cdcbd84.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3000,
+                                "width": 3760
+                            }
+                        }
+                    ],
+                    "label": "[31]",
+                    "thumbnail": {
+                        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/1a6649fd52e5ac747334a2b8b3d332cf6cdcbd84.jpg"
+                    },
+                    "width": 3760
+                },
+                {
+                    "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p32",
+                    "@type": "sc:Canvas",
+                    "height": 3000,
+                    "images": [
+                        {
+                            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/annotation/p0032-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p32",
+                            "resource": {
+                                "@id": "https://curation.library.t.u-tokyo.ac.jp/files/original/0710604f6507c0df8d2938d74cba65d8679f8362.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3000,
+                                "width": 3760
+                            }
+                        }
+                    ],
+                    "label": "[32]",
+                    "thumbnail": {
+                        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/0710604f6507c0df8d2938d74cba65d8679f8362.jpg"
+                    },
+                    "width": 3760
+                },
+                {
+                    "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p33",
+                    "@type": "sc:Canvas",
+                    "height": 3000,
+                    "images": [
+                        {
+                            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/annotation/p0033-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p33",
+                            "resource": {
+                                "@id": "https://curation.library.t.u-tokyo.ac.jp/files/original/3387d03b0e52151100292deaddcb595192b8abea.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3000,
+                                "width": 3760
+                            }
+                        }
+                    ],
+                    "label": "[33]",
+                    "thumbnail": {
+                        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/3387d03b0e52151100292deaddcb595192b8abea.jpg"
+                    },
+                    "width": 3760
+                },
+                {
+                    "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p34",
+                    "@type": "sc:Canvas",
+                    "height": 3000,
+                    "images": [
+                        {
+                            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/annotation/p0034-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p34",
+                            "resource": {
+                                "@id": "https://curation.library.t.u-tokyo.ac.jp/files/original/16b1e9835faead486fef1d34a4ec7f3836a1bb33.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3000,
+                                "width": 3760
+                            }
+                        }
+                    ],
+                    "label": "[34]",
+                    "thumbnail": {
+                        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/16b1e9835faead486fef1d34a4ec7f3836a1bb33.jpg"
+                    },
+                    "width": 3760
+                },
+                {
+                    "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p35",
+                    "@type": "sc:Canvas",
+                    "height": 3000,
+                    "images": [
+                        {
+                            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/annotation/p0035-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p35",
+                            "resource": {
+                                "@id": "https://curation.library.t.u-tokyo.ac.jp/files/original/67782e9dd80d8cfe05736c12c6c62b61277d2056.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3000,
+                                "width": 3760
+                            }
+                        }
+                    ],
+                    "label": "[35]",
+                    "thumbnail": {
+                        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/67782e9dd80d8cfe05736c12c6c62b61277d2056.jpg"
+                    },
+                    "width": 3760
+                },
+                {
+                    "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p36",
+                    "@type": "sc:Canvas",
+                    "height": 3000,
+                    "images": [
+                        {
+                            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/annotation/p0036-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p36",
+                            "resource": {
+                                "@id": "https://curation.library.t.u-tokyo.ac.jp/files/original/4ef6242b4bb3ec4f3fd1893b61f9af4743d332fe.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3000,
+                                "width": 3760
+                            }
+                        }
+                    ],
+                    "label": "[36]",
+                    "thumbnail": {
+                        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/4ef6242b4bb3ec4f3fd1893b61f9af4743d332fe.jpg"
+                    },
+                    "width": 3760
+                },
+                {
+                    "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p37",
+                    "@type": "sc:Canvas",
+                    "height": 3000,
+                    "images": [
+                        {
+                            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/annotation/p0037-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p37",
+                            "resource": {
+                                "@id": "https://curation.library.t.u-tokyo.ac.jp/files/original/94936476dc4738bb4d29d237c16de4f3c1c060c3.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3000,
+                                "width": 3760
+                            }
+                        }
+                    ],
+                    "label": "[37]",
+                    "thumbnail": {
+                        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/94936476dc4738bb4d29d237c16de4f3c1c060c3.jpg"
+                    },
+                    "width": 3760
+                },
+                {
+                    "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p38",
+                    "@type": "sc:Canvas",
+                    "height": 3000,
+                    "images": [
+                        {
+                            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/annotation/p0038-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p38",
+                            "resource": {
+                                "@id": "https://curation.library.t.u-tokyo.ac.jp/files/original/107bb79c79a04d9819a7978f937bbffe7c76f968.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3000,
+                                "width": 3760
+                            }
+                        }
+                    ],
+                    "label": "[38]",
+                    "thumbnail": {
+                        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/107bb79c79a04d9819a7978f937bbffe7c76f968.jpg"
+                    },
+                    "width": 3760
+                },
+                {
+                    "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p39",
+                    "@type": "sc:Canvas",
+                    "height": 3000,
+                    "images": [
+                        {
+                            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/annotation/p0039-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p39",
+                            "resource": {
+                                "@id": "https://curation.library.t.u-tokyo.ac.jp/files/original/e5c17b143dc6cd89f771797640bc142d9fd5a098.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3000,
+                                "width": 3760
+                            }
+                        }
+                    ],
+                    "label": "[39]",
+                    "thumbnail": {
+                        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/e5c17b143dc6cd89f771797640bc142d9fd5a098.jpg"
+                    },
+                    "width": 3760
+                },
+                {
+                    "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p40",
+                    "@type": "sc:Canvas",
+                    "height": 3000,
+                    "images": [
+                        {
+                            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/annotation/p0040-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p40",
+                            "resource": {
+                                "@id": "https://curation.library.t.u-tokyo.ac.jp/files/original/28066dabf019024c9cb81ca314e0812ef9239c6c.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3000,
+                                "width": 3760
+                            }
+                        }
+                    ],
+                    "label": "[40]",
+                    "thumbnail": {
+                        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/28066dabf019024c9cb81ca314e0812ef9239c6c.jpg"
+                    },
+                    "width": 3760
+                },
+                {
+                    "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p41",
+                    "@type": "sc:Canvas",
+                    "height": 3000,
+                    "images": [
+                        {
+                            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/annotation/p0041-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p41",
+                            "resource": {
+                                "@id": "https://curation.library.t.u-tokyo.ac.jp/files/original/53e24ee7faae2df4ff25d40764ce31fa119c282d.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3000,
+                                "width": 3760
+                            }
+                        }
+                    ],
+                    "label": "[41]",
+                    "thumbnail": {
+                        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/53e24ee7faae2df4ff25d40764ce31fa119c282d.jpg"
+                    },
+                    "width": 3760
+                },
+                {
+                    "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p42",
+                    "@type": "sc:Canvas",
+                    "height": 3000,
+                    "images": [
+                        {
+                            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/annotation/p0042-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p42",
+                            "resource": {
+                                "@id": "https://curation.library.t.u-tokyo.ac.jp/files/original/7fbc3a38c935ddcbf9fdcf7f43ae481fd2770c94.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3000,
+                                "width": 3760
+                            }
+                        }
+                    ],
+                    "label": "[42]",
+                    "thumbnail": {
+                        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/7fbc3a38c935ddcbf9fdcf7f43ae481fd2770c94.jpg"
+                    },
+                    "width": 3760
+                },
+                {
+                    "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p43",
+                    "@type": "sc:Canvas",
+                    "height": 3000,
+                    "images": [
+                        {
+                            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/annotation/p0043-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p43",
+                            "resource": {
+                                "@id": "https://curation.library.t.u-tokyo.ac.jp/files/original/cbc3dfdf355137e9701771401fc51c4a3d900e75.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3000,
+                                "width": 3760
+                            }
+                        }
+                    ],
+                    "label": "[43]",
+                    "thumbnail": {
+                        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/cbc3dfdf355137e9701771401fc51c4a3d900e75.jpg"
+                    },
+                    "width": 3760
+                },
+                {
+                    "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p44",
+                    "@type": "sc:Canvas",
+                    "height": 3000,
+                    "images": [
+                        {
+                            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/annotation/p0044-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://curation.library.t.u-tokyo.ac.jp/iiif/11daa3cb-f22c-46ac-9ea0-ecb7f1edaa94/canvas/p44",
+                            "resource": {
+                                "@id": "https://curation.library.t.u-tokyo.ac.jp/files/original/6d13bd392036a86121232aded44efa5d9c1e5020.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3000,
+                                "width": 3760
+                            }
+                        }
+                    ],
+                    "label": "[44]",
+                    "thumbnail": {
+                        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/6d13bd392036a86121232aded44efa5d9c1e5020.jpg"
+                    },
+                    "width": 3760
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/867f9e48cd9e8128c193488e1d33195eef044c74.jpg"
+    },
+    "viewingDirection": "left-to-right",
+    "within": "https://curation.library.t.u-tokyo.ac.jp"
+}

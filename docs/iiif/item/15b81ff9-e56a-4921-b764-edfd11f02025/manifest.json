@@ -1,0 +1,122 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://curation-library-t.github.io/dataset2/iiif/item/15b81ff9-e56a-4921-b764-edfd11f02025/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学工学・情報理工学図書館 Libraries for Engineering and Information Science & Technology, The University of Tokyo, JAPAN",
+    "description": "50の一枚目と二枚目の間に綴じられている",
+    "label": "[執筆要綱トス]",
+    "license": "https://curation.library.t.u-tokyo.ac.jp/s/db/page/license",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "metadata": [
+        {
+            "label": "タイトル / Title",
+            "value": "[執筆要綱トス]"
+        },
+        {
+            "label": "種別 / Type",
+            "value": "メモ / Memorandum"
+        },
+        {
+            "label": "言語 / Language",
+            "value": "日本語 / Japanese"
+        },
+        {
+            "label": "ページ数, 冊数 / Pages, Volumes",
+            "value": "1枚"
+        },
+        {
+            "label": "大きさ / Size",
+            "value": "17.8×12.3cm"
+        },
+        {
+            "label": "請求記号 / Call Number",
+            "value": "51"
+        },
+        {
+            "label": "所蔵図書室 / Holding Library",
+            "value": "工3号館図書室 / Engineering Bldg. 3 Library"
+        },
+        {
+            "label": "タグ / Tag",
+            "value": [
+                "山本 武蔵",
+                "Yamamoto Takezo",
+                "明治前日本科学史",
+                "Meiji-mae Nippon Kagaku-shi (Pre-modern Japanese History of Science and Technology)"
+            ]
+        },
+        {
+            "label": "Identifier",
+            "value": "15b81ff9-e56a-4921-b764-edfd11f02025"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://curation.library.t.u-tokyo.ac.jp/iiif/15b81ff9-e56a-4921-b764-edfd11f02025/manifest"
+        }
+    ],
+    "related": "https://www.kanzaki.com/works/2016/pub/image-annotator?u=https://curation-library-t.github.io/dataset2/iiif/item/15b81ff9-e56a-4921-b764-edfd11f02025/manifest.json",
+    "seeAlso": "https://curation-library-t.github.io/dataset2/ld/15b81ff9-e56a-4921-b764-edfd11f02025.json",
+    "sequences": [
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/15b81ff9-e56a-4921-b764-edfd11f02025/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/15b81ff9-e56a-4921-b764-edfd11f02025/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 5065,
+                    "images": [
+                        {
+                            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/15b81ff9-e56a-4921-b764-edfd11f02025/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://curation.library.t.u-tokyo.ac.jp/iiif/15b81ff9-e56a-4921-b764-edfd11f02025/canvas/p1",
+                            "resource": {
+                                "@id": "https://curation.library.t.u-tokyo.ac.jp/files/original/0f21229aebe54ca70208520edbdb6d17cb0aba50.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 5065,
+                                "width": 5672
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/0f21229aebe54ca70208520edbdb6d17cb0aba50.jpg"
+                    },
+                    "width": 5672
+                },
+                {
+                    "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/15b81ff9-e56a-4921-b764-edfd11f02025/canvas/p2",
+                    "@type": "sc:Canvas",
+                    "height": 5065,
+                    "images": [
+                        {
+                            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/15b81ff9-e56a-4921-b764-edfd11f02025/annotation/p0002-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://curation.library.t.u-tokyo.ac.jp/iiif/15b81ff9-e56a-4921-b764-edfd11f02025/canvas/p2",
+                            "resource": {
+                                "@id": "https://curation.library.t.u-tokyo.ac.jp/files/original/8f396442cb5eaaf06d0ca3c15bc950e39d2a3f42.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 5065,
+                                "width": 5672
+                            }
+                        }
+                    ],
+                    "label": "[2]",
+                    "thumbnail": {
+                        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/8f396442cb5eaaf06d0ca3c15bc950e39d2a3f42.jpg"
+                    },
+                    "width": 5672
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": "https://curation.library.t.u-tokyo.ac.jp/files/medium/0f21229aebe54ca70208520edbdb6d17cb0aba50.jpg",
+    "viewingDirection": "left-to-right",
+    "within": "https://curation.library.t.u-tokyo.ac.jp"
+}
