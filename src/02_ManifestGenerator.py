@@ -7,9 +7,10 @@ import os
 import glob
 import yaml
 import shutil
+import time
 
 f = open("settings.yml", "r+")
-settings = yaml.load(f, Loader=yaml.FullLoader)
+settings = yaml.load(f)
 
 prefix = settings["github_pages_url"]
 
@@ -33,6 +34,7 @@ collection = dict()
 collection["@context"] = "http://iiif.io/api/presentation/2/context.json"
 collection["@id"] = collection_uri
 collection["@type"] = "sc:Collection"
+collection["created"] = time.time
 manifests = []
 collection["manifests"] = manifests
 
