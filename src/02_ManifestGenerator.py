@@ -43,7 +43,7 @@ for i in range(len(files)):
     with open(file) as f:
         obj = json.load(f)
 
-        id = obj["o:id"]
+        id = str(obj["o:id"])
         if settings["identifier"] in obj:
             id = obj[settings["identifier"]][0]["@value"]
 
