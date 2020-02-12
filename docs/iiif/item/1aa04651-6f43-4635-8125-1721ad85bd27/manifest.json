@@ -1,0 +1,101 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://curation-library-t.github.io/dataset2/iiif/item/1aa04651-6f43-4635-8125-1721ad85bd27/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学工学・情報理工学図書館 Libraries for Engineering and Information Science & Technology, The University of Tokyo, JAPAN",
+    "label": "[東京帝國大學工科大學機械工學科卒業證書]",
+    "license": "https://curation.library.t.u-tokyo.ac.jp/s/db/page/license",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "metadata": [
+        {
+            "label": "タイトル / Title",
+            "value": "[東京帝國大學工科大學機械工學科卒業證書]"
+        },
+        {
+            "label": "別表記タイトル / Other Title",
+            "value": "東京帝国大学工科大学機械工学科卒業証書"
+        },
+        {
+            "label": "種別 / Type",
+            "value": "文書 / Document"
+        },
+        {
+            "label": "言語 / Language",
+            "value": "日本語 / Japanese"
+        },
+        {
+            "label": "年月日 / Date",
+            "value": "大正5(1916)年7月10日"
+        },
+        {
+            "label": "専攻 / Department",
+            "value": "機械工学科"
+        },
+        {
+            "label": "請求記号 / Call Number",
+            "value": "I-no.1"
+        },
+        {
+            "label": "所蔵図書室 / Holding Library",
+            "value": "工2号館図書室 / Engineering Bldg. 2 Library"
+        },
+        {
+            "label": "タグ / Tag",
+            "value": [
+                "三井田 誠二 / Miida Seiji",
+                "渡辺 渡 / Watanabe Wataru",
+                "山川 健次郎 / Yamakawa Kenjiro"
+            ]
+        },
+        {
+            "label": "Identifier",
+            "value": "1aa04651-6f43-4635-8125-1721ad85bd27"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://curation.library.t.u-tokyo.ac.jp/iiif/1aa04651-6f43-4635-8125-1721ad85bd27/manifest"
+        }
+    ],
+    "related": "https://www.kanzaki.com/works/2016/pub/image-annotator?u=https://curation-library-t.github.io/dataset2/iiif/item/1aa04651-6f43-4635-8125-1721ad85bd27/manifest.json",
+    "seeAlso": "https://curation-library-t.github.io/dataset2/ld/1aa04651-6f43-4635-8125-1721ad85bd27.json",
+    "sequences": [
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/1aa04651-6f43-4635-8125-1721ad85bd27/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/1aa04651-6f43-4635-8125-1721ad85bd27/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 2829,
+                    "images": [
+                        {
+                            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/1aa04651-6f43-4635-8125-1721ad85bd27/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://curation.library.t.u-tokyo.ac.jp/iiif/1aa04651-6f43-4635-8125-1721ad85bd27/canvas/p1",
+                            "resource": {
+                                "@id": "https://curation.library.t.u-tokyo.ac.jp/files/original/46c216ff5f95c08d9bcc494aa45c19391b0e8a18.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2829,
+                                "width": 4000
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/46c216ff5f95c08d9bcc494aa45c19391b0e8a18.jpg"
+                    },
+                    "width": 4000
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/46c216ff5f95c08d9bcc494aa45c19391b0e8a18.jpg"
+    },
+    "viewingDirection": "left-to-right",
+    "within": "https://curation.library.t.u-tokyo.ac.jp"
+}
