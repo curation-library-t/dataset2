@@ -7,7 +7,7 @@ import os
 import glob
 import yaml
 import shutil
-import time
+import datetime
 
 f = open("settings.yml", "r+")
 settings = yaml.load(f)
@@ -34,7 +34,7 @@ collection = dict()
 collection["@context"] = "http://iiif.io/api/presentation/2/context.json"
 collection["@id"] = collection_uri
 collection["@type"] = "sc:Collection"
-collection["created"] = time.time
+collection["created"] = str(datetime.datetime.now())
 manifests = []
 collection["manifests"] = manifests
 
