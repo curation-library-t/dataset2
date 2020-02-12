@@ -1,0 +1,119 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://curation-library-t.github.io/dataset2/iiif/item/1f6dc937-03b0-4317-9849-2040717c7eff/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学工学・情報理工学図書館 Libraries for Engineering and Information Science & Technology, The University of Tokyo, JAPAN",
+    "description": "2019年度東京大学デジタルアーカイブズ構築事業により電子化",
+    "label": "田川炭礦伊田坑及積込停車場. Ita Mine and its Loading Station, Tagawa Colliery",
+    "license": "https://curation.library.t.u-tokyo.ac.jp/s/db/page/license",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "metadata": [
+        {
+            "label": "タイトル / Title",
+            "value": "田川炭礦伊田坑及積込停車場. Ita Mine and its Loading Station, Tagawa Colliery"
+        },
+        {
+            "label": "別表記タイトル / Other Title",
+            "value": "田川炭砿伊田坑及積込停車場"
+        },
+        {
+            "label": "種別 / Type",
+            "value": "写真 / Photograph"
+        },
+        {
+            "label": "大きさ / Size",
+            "value": [
+                "オリジナル: 写真44.5×57.5cm, 台紙57.7×74.5cm",
+                "キャビネサイズ複製: 13×18cm"
+            ]
+        },
+        {
+            "label": "所蔵図書室 / Holding Library",
+            "value": "工3号館図書室 / Engineering Bldg. 3 Library"
+        },
+        {
+            "label": "タグ / Tag",
+            "value": [
+                "三井鉱山",
+                "田川炭鉱",
+                "Mitsui Kozan",
+                "Tagawa Coal Mine"
+            ]
+        },
+        {
+            "label": "Identifier",
+            "value": "1f6dc937-03b0-4317-9849-2040717c7eff"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://curation.library.t.u-tokyo.ac.jp/iiif/1f6dc937-03b0-4317-9849-2040717c7eff/manifest"
+        }
+    ],
+    "related": "https://www.kanzaki.com/works/2016/pub/image-annotator?u=https://curation-library-t.github.io/dataset2/iiif/item/1f6dc937-03b0-4317-9849-2040717c7eff/manifest.json",
+    "seeAlso": "https://curation-library-t.github.io/dataset2/ld/1f6dc937-03b0-4317-9849-2040717c7eff.json",
+    "sequences": [
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/1f6dc937-03b0-4317-9849-2040717c7eff/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/1f6dc937-03b0-4317-9849-2040717c7eff/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 7454,
+                    "images": [
+                        {
+                            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/1f6dc937-03b0-4317-9849-2040717c7eff/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://curation.library.t.u-tokyo.ac.jp/iiif/1f6dc937-03b0-4317-9849-2040717c7eff/canvas/p1",
+                            "resource": {
+                                "@id": "https://curation.library.t.u-tokyo.ac.jp/files/original/4af9dcf39ba9fe54cbc047536aab77c02d87e6da.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 7454,
+                                "width": 9019
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/4af9dcf39ba9fe54cbc047536aab77c02d87e6da.jpg"
+                    },
+                    "width": 9019
+                },
+                {
+                    "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/1f6dc937-03b0-4317-9849-2040717c7eff/canvas/p2",
+                    "@type": "sc:Canvas",
+                    "height": 3802,
+                    "images": [
+                        {
+                            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/1f6dc937-03b0-4317-9849-2040717c7eff/annotation/p0002-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://curation.library.t.u-tokyo.ac.jp/iiif/1f6dc937-03b0-4317-9849-2040717c7eff/canvas/p2",
+                            "resource": {
+                                "@id": "https://curation.library.t.u-tokyo.ac.jp/files/original/5d70d0049674a1e8d92ba7918c536f0b827cfd0c.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3802,
+                                "width": 5248
+                            }
+                        }
+                    ],
+                    "label": "[2]",
+                    "thumbnail": {
+                        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/5d70d0049674a1e8d92ba7918c536f0b827cfd0c.jpg"
+                    },
+                    "width": 5248
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/4af9dcf39ba9fe54cbc047536aab77c02d87e6da.jpg"
+    },
+    "viewingDirection": "left-to-right",
+    "within": "https://curation.library.t.u-tokyo.ac.jp"
+}
