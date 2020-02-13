@@ -4,12 +4,13 @@ import json
 import argparse
 import urllib.request
 import os
-
+import shutil
 import yaml
 
 dir = "../docs/omeka/resource_templates"
+if os.path.exists(dir):
+    shutil.rmtree(dir)
 os.makedirs(dir, exist_ok=True)
-
 
 def resource_templates_generator():
     f = open("settings.yml", "r+")
