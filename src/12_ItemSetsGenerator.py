@@ -5,8 +5,11 @@ import argparse
 import urllib.request
 import os
 import yaml
+import shutil
 
 dir = "../docs/omeka/item_sets"
+if os.path.exists(dir):
+    shutil.rmtree(dir)
 os.makedirs(dir, exist_ok=True)
 
 def item_sets_generator():
