@@ -1,0 +1,85 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://curation-library-t.github.io/dataset2/iiif/item/2ecd93c0-ce0c-43eb-b373-7109bcdd6fa6/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学工学・情報理工学図書館 Libraries for Engineering and Information Science & Technology, The University of Tokyo, JAPAN",
+    "description": "写真右下に「Michitaro Oshima」のサインあり",
+    "label": "大島道太郎教授 在職明治四十一年‐大正四年",
+    "license": "https://curation.library.t.u-tokyo.ac.jp/s/db/page/license",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "metadata": [
+        {
+            "label": "タイトル / Title",
+            "value": "大島道太郎教授 在職明治四十一年‐大正四年"
+        },
+        {
+            "label": "種別 / Type",
+            "value": "写真 / Photograph"
+        },
+        {
+            "label": "大きさ / Size",
+            "value": "55×42cm"
+        },
+        {
+            "label": "所蔵図書室 / Holding Library",
+            "value": "工3号館図書室 / Engineering Bldg. 3 Library"
+        },
+        {
+            "label": "タグ / Tag",
+            "value": [
+                "大島 道太郎",
+                "Oshima Michitaro"
+            ]
+        },
+        {
+            "label": "Identifier",
+            "value": "2ecd93c0-ce0c-43eb-b373-7109bcdd6fa6"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://curation.library.t.u-tokyo.ac.jp/iiif/2ecd93c0-ce0c-43eb-b373-7109bcdd6fa6/manifest"
+        }
+    ],
+    "related": "https://www.kanzaki.com/works/2016/pub/image-annotator?u=https://curation-library-t.github.io/dataset2/iiif/item/2ecd93c0-ce0c-43eb-b373-7109bcdd6fa6/manifest.json",
+    "seeAlso": "https://curation-library-t.github.io/dataset2/ld/2ecd93c0-ce0c-43eb-b373-7109bcdd6fa6.json",
+    "sequences": [
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/2ecd93c0-ce0c-43eb-b373-7109bcdd6fa6/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/2ecd93c0-ce0c-43eb-b373-7109bcdd6fa6/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 6287,
+                    "images": [
+                        {
+                            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/2ecd93c0-ce0c-43eb-b373-7109bcdd6fa6/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://curation.library.t.u-tokyo.ac.jp/iiif/2ecd93c0-ce0c-43eb-b373-7109bcdd6fa6/canvas/p1",
+                            "resource": {
+                                "@id": "https://curation.library.t.u-tokyo.ac.jp/files/original/fd91e0387fa30351b36627422e47ceaeb25d8fab.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 6287,
+                                "width": 4115
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/fd91e0387fa30351b36627422e47ceaeb25d8fab.jpg"
+                    },
+                    "width": 4115
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/fd91e0387fa30351b36627422e47ceaeb25d8fab.jpg"
+    },
+    "viewingDirection": "left-to-right",
+    "within": "https://curation.library.t.u-tokyo.ac.jp"
+}

@@ -1,0 +1,129 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://curation-library-t.github.io/dataset2/iiif/item/6f8bae6e-e436-41b2-9999-a1506d7dfccf/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学工学・情報理工学図書館 Libraries for Engineering and Information Science & Technology, The University of Tokyo, JAPAN",
+    "label": "[ウェスト奨學學生選定書]",
+    "license": "https://curation.library.t.u-tokyo.ac.jp/s/db/page/license",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "metadata": [
+        {
+            "label": "タイトル / Title",
+            "value": "[ウェスト奨學學生選定書]"
+        },
+        {
+            "label": "別表記タイトル / Other Title",
+            "value": "[ウェスト奨学学生選定書]"
+        },
+        {
+            "label": "種別 / Type",
+            "value": "文書 / Document"
+        },
+        {
+            "label": "言語 / Language",
+            "value": "日本語 / Japanese"
+        },
+        {
+            "label": "年月日 / Date",
+            "value": [
+                "大正3(1914)年11月19日",
+                "大正4(1915)年9月20日"
+            ]
+        },
+        {
+            "label": "専攻 / Department",
+            "value": "機械工学科"
+        },
+        {
+            "label": "請求記号 / Call Number",
+            "value": "I-no.6"
+        },
+        {
+            "label": "所蔵図書室 / Holding Library",
+            "value": "工2号館図書室 / Engineering Bldg. 2 Library"
+        },
+        {
+            "label": "タグ / Tag",
+            "value": [
+                "三井田 誠二 / Miida Seiji",
+                "渡辺 渡 / Watanabe Wataru",
+                "チャールズ・ウェスト / Charles Dickinson West (1847-1908)"
+            ]
+        },
+        {
+            "label": "Identifier",
+            "value": "6f8bae6e-e436-41b2-9999-a1506d7dfccf"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://curation.library.t.u-tokyo.ac.jp/iiif/6f8bae6e-e436-41b2-9999-a1506d7dfccf/manifest"
+        }
+    ],
+    "related": "https://www.kanzaki.com/works/2016/pub/image-annotator?u=https://curation-library-t.github.io/dataset2/iiif/item/6f8bae6e-e436-41b2-9999-a1506d7dfccf/manifest.json",
+    "seeAlso": "https://curation-library-t.github.io/dataset2/ld/6f8bae6e-e436-41b2-9999-a1506d7dfccf.json",
+    "sequences": [
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/6f8bae6e-e436-41b2-9999-a1506d7dfccf/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/6f8bae6e-e436-41b2-9999-a1506d7dfccf/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 4000,
+                    "images": [
+                        {
+                            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/6f8bae6e-e436-41b2-9999-a1506d7dfccf/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://curation.library.t.u-tokyo.ac.jp/iiif/6f8bae6e-e436-41b2-9999-a1506d7dfccf/canvas/p1",
+                            "resource": {
+                                "@id": "https://curation.library.t.u-tokyo.ac.jp/files/original/7fdd61af32b02b5904f55453c7ea378220a18637.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4000,
+                                "width": 2827
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/7fdd61af32b02b5904f55453c7ea378220a18637.jpg"
+                    },
+                    "width": 2827
+                },
+                {
+                    "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/6f8bae6e-e436-41b2-9999-a1506d7dfccf/canvas/p2",
+                    "@type": "sc:Canvas",
+                    "height": 4000,
+                    "images": [
+                        {
+                            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/6f8bae6e-e436-41b2-9999-a1506d7dfccf/annotation/p0002-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://curation.library.t.u-tokyo.ac.jp/iiif/6f8bae6e-e436-41b2-9999-a1506d7dfccf/canvas/p2",
+                            "resource": {
+                                "@id": "https://curation.library.t.u-tokyo.ac.jp/files/original/57ade12ef8f0b6733f112204b84f7c0c4ea95097.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4000,
+                                "width": 2826
+                            }
+                        }
+                    ],
+                    "label": "[2]",
+                    "thumbnail": {
+                        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/57ade12ef8f0b6733f112204b84f7c0c4ea95097.jpg"
+                    },
+                    "width": 2826
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/7fdd61af32b02b5904f55453c7ea378220a18637.jpg"
+    },
+    "viewingDirection": "left-to-right",
+    "within": "https://curation.library.t.u-tokyo.ac.jp"
+}
