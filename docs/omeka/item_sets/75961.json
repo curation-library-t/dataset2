@@ -1,0 +1,47 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/item_sets/75961",
+    "@type": "o:ItemSet",
+    "dcterms:description": [
+        {
+            "@value": "大正5(1916)年に東京帝国大学工科大学機械工学科を卒業し日立製作所で国産電気機関車第一号に携わった三井田誠二氏、その子で昭和22(1947)年に東京大学第二工学部を卒業し東京大学生産研究所で微分解析機の開発を進めた三井田純一氏の所有していた講義ノートその他",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "三井田誠二・三井田純一資料 / Miida, Seiji and Miida, Junichi Collection",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-11-15T07:28:03+00:00"
+    },
+    "o:id": 75961,
+    "o:is_open": false,
+    "o:is_public": true,
+    "o:items": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/items?item_set_id=75961"
+    },
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-12-17T02:21:28+00:00"
+    },
+    "o:owner": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/users/4",
+        "o:id": 4
+    },
+    "o:resource_class": null,
+    "o:resource_template": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/resource_templates/11",
+        "o:id": 11
+    },
+    "o:thumbnail": null
+}

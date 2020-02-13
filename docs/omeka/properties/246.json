@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/246",
+    "@type": "o:Property",
+    "o:comment": "博士論文の報告番号",
+    "o:id": 246,
+    "o:label": "Dissertation Number",
+    "o:local_name": "dissertationNumber",
+    "o:term": "dcndl:dissertationNumber",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/8",
+        "o:id": 8
+    }
+}

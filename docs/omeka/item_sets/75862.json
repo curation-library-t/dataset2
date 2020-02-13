@@ -1,0 +1,44 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/item_sets/75862",
+    "@type": "o:ItemSet",
+    "dcterms:identifier": [
+        {
+            "@value": "oaipmh",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "OAI-PMH",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-08-09T01:24:12+00:00"
+    },
+    "o:id": 75862,
+    "o:is_open": false,
+    "o:is_public": true,
+    "o:items": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/items?item_set_id=75862"
+    },
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-08-09T01:24:12+00:00"
+    },
+    "o:owner": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:thumbnail": null
+}

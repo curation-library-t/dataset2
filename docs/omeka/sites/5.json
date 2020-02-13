@@ -1,0 +1,242 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/sites/5",
+    "@type": "o:Site",
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-12-20T06:40:00+00:00"
+    },
+    "o:id": 5,
+    "o:is_public": true,
+    "o:item_pool": {
+        "item_set_id": [
+            "66049",
+            "67030",
+            "72671",
+            "73082",
+            "73426",
+            "75304",
+            "75532",
+            "75864",
+            "75961"
+        ],
+        "o:site_item_set": [
+            {
+                "o:item_set": {
+                    "o:id": "66049"
+                }
+            },
+            {
+                "o:item_set": {
+                    "o:id": "67030"
+                }
+            },
+            {
+                "o:item_set": {
+                    "o:id": "72671"
+                }
+            },
+            {
+                "o:item_set": {
+                    "o:id": "73082"
+                }
+            },
+            {
+                "o:item_set": {
+                    "o:id": "75532"
+                }
+            },
+            {
+                "o:item_set": {
+                    "o:id": "73426"
+                }
+            },
+            {
+                "o:item_set": {
+                    "o:id": "75304"
+                }
+            },
+            {
+                "o:item_set": {
+                    "o:id": "75864"
+                }
+            },
+            {
+                "o:item_set": {
+                    "o:id": "75961"
+                }
+            }
+        ],
+        "property": [
+            {
+                "joiner": "and",
+                "property": "",
+                "text": "",
+                "type": "eq"
+            }
+        ],
+        "resource_class_id": [
+            ""
+        ],
+        "resource_template_id": [
+            ""
+        ],
+        "site_id": ""
+    },
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-11-26T08:55:20+00:00"
+    },
+    "o:navigation": [
+        {
+            "data": {
+                "id": 28,
+                "label": ""
+            },
+            "links": [],
+            "type": "page"
+        },
+        {
+            "data": {
+                "label": "検索 / Search",
+                "query": ""
+            },
+            "links": [],
+            "type": "browse"
+        },
+        {
+            "data": {
+                "label": "コレクション / Collection",
+                "query": ""
+            },
+            "links": [],
+            "type": "browseItemSets"
+        },
+        {
+            "data": {
+                "id": 27,
+                "label": "利用条件 / License"
+            },
+            "links": [],
+            "type": "page"
+        },
+        {
+            "data": {
+                "id": 33,
+                "label": "各種説明 / Explanation"
+            },
+            "links": [],
+            "type": "page"
+        }
+    ],
+    "o:owner": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:page": [
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/site_pages/33",
+            "o:id": 33
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/site_pages/34",
+            "o:id": 34
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/site_pages/28",
+            "o:id": 28
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/site_pages/27",
+            "o:id": 27
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/site_pages/30",
+            "o:id": 30
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/site_pages/31",
+            "o:id": 31
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/site_pages/37",
+            "o:id": 37
+        }
+    ],
+    "o:site_item_set": [
+        {
+            "o:item_set": {
+                "@id": "https://curation.library.t.u-tokyo.ac.jp/api/item_sets/66049",
+                "o:id": 66049
+            }
+        },
+        {
+            "o:item_set": {
+                "@id": "https://curation.library.t.u-tokyo.ac.jp/api/item_sets/67030",
+                "o:id": 67030
+            }
+        },
+        {
+            "o:item_set": {
+                "@id": "https://curation.library.t.u-tokyo.ac.jp/api/item_sets/72671",
+                "o:id": 72671
+            }
+        },
+        {
+            "o:item_set": {
+                "@id": "https://curation.library.t.u-tokyo.ac.jp/api/item_sets/73082",
+                "o:id": 73082
+            }
+        },
+        {
+            "o:item_set": {
+                "@id": "https://curation.library.t.u-tokyo.ac.jp/api/item_sets/75532",
+                "o:id": 75532
+            }
+        },
+        {
+            "o:item_set": {
+                "@id": "https://curation.library.t.u-tokyo.ac.jp/api/item_sets/73426",
+                "o:id": 73426
+            }
+        },
+        {
+            "o:item_set": {
+                "@id": "https://curation.library.t.u-tokyo.ac.jp/api/item_sets/75304",
+                "o:id": 75304
+            }
+        },
+        {
+            "o:item_set": {
+                "@id": "https://curation.library.t.u-tokyo.ac.jp/api/item_sets/75864",
+                "o:id": 75864
+            }
+        },
+        {
+            "o:item_set": {
+                "@id": "https://curation.library.t.u-tokyo.ac.jp/api/item_sets/75961",
+                "o:id": 75961
+            }
+        }
+    ],
+    "o:site_permission": [
+        {
+            "o:role": "admin",
+            "o:user": {
+                "@id": "https://curation.library.t.u-tokyo.ac.jp/api/users/1",
+                "o:id": 1
+            }
+        },
+        {
+            "o:role": "admin",
+            "o:user": {
+                "@id": "https://curation.library.t.u-tokyo.ac.jp/api/users/4",
+                "o:id": 4
+            }
+        }
+    ],
+    "o:slug": "db",
+    "o:summary": null,
+    "o:theme": "eng2",
+    "o:title": "工学史料キュレーションデータベース"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/368",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 368,
+    "o:label": "確認作業備考（塩川）",
+    "o:local_name": "field_326d3e5e-2d7d-4752-ab76-eee5b5a5d935",
+    "o:term": "ex:field_326d3e5e-2d7d-4752-ab76-eee5b5a5d935",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/10",
+        "o:id": 10
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/273",
+    "@type": "o:Property",
+    "o:comment": "Series Volume Titleの読み又は翻字形",
+    "o:id": 273,
+    "o:label": "Series Volume Title Transcription",
+    "o:local_name": "seriesVolumeTitleTranscription",
+    "o:term": "dcndl:seriesVolumeTitleTranscription",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/8",
+        "o:id": 8
+    }
+}

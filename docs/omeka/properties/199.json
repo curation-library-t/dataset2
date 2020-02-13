@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/199",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 199,
+    "o:label": "hasAnnotations",
+    "o:local_name": "hasAnnotations",
+    "o:term": "sc:hasAnnotations",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/6",
+        "o:id": 6
+    }
+}

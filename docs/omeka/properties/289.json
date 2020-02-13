@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/289",
+    "@type": "o:Property",
+    "o:comment": "メタデータのハーベスト元のデータベースに関する情報",
+    "o:id": 289,
+    "o:label": "Bibliographic Record Category",
+    "o:local_name": "bibRecordCategory",
+    "o:term": "dcndl:bibRecordCategory",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/8",
+        "o:id": 8
+    }
+}

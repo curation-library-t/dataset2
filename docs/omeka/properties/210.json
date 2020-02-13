@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/210",
+    "@type": "o:Property",
+    "o:comment": "The subject is a subclass of a class.",
+    "o:id": 210,
+    "o:label": "subClassOf",
+    "o:local_name": "subClassOf",
+    "o:term": "rdfs:subClassOf",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/212",
+    "@type": "o:Property",
+    "o:comment": "A description of the subject resource.",
+    "o:id": 212,
+    "o:label": "comment",
+    "o:local_name": "comment",
+    "o:term": "rdfs:comment",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

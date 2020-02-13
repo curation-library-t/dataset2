@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/270",
+    "@type": "o:Property",
+    "o:comment": "シリーズの巻次又は部編番号",
+    "o:id": 270,
+    "o:label": "Series Volume",
+    "o:local_name": "seriesVolume",
+    "o:term": "dcndl:seriesVolume",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/8",
+        "o:id": 8
+    }
+}

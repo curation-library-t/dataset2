@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/260",
+    "@type": "o:Property",
+    "o:comment": "請求記号",
+    "o:id": 260,
+    "o:label": "Local Call Number",
+    "o:local_name": "localCallNumber",
+    "o:term": "dcndl:localCallNumber",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/8",
+        "o:id": 8
+    }
+}

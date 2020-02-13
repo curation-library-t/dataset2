@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/73",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 73,
+    "o:label": "performer",
+    "o:local_name": "performer",
+    "o:term": "bibo:performer",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/3",
+        "o:id": 3
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/53",
+    "@type": "o:Property",
+    "o:comment": "The method by which items are added to a collection.",
+    "o:id": 53,
+    "o:label": "Accrual Method",
+    "o:local_name": "accrualMethod",
+    "o:term": "dcterms:accrualMethod",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/1",
+        "o:id": 1
+    }
+}

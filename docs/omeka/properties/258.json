@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/258",
+    "@type": "o:Property",
+    "o:comment": "当該情報資源の保有者",
+    "o:id": 258,
+    "o:label": "Holding Agent",
+    "o:local_name": "holdingAgent",
+    "o:term": "dcndl:holdingAgent",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/8",
+        "o:id": 8
+    }
+}

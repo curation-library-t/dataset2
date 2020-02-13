@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/359",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 359,
+    "o:label": "種別",
+    "o:local_name": "field_0b213874-89cd-467c-8d52-a1039f05653b",
+    "o:term": "ex:field_0b213874-89cd-467c-8d52-a1039f05653b",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/10",
+        "o:id": 10
+    }
+}

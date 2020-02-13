@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/214",
+    "@type": "o:Property",
+    "o:comment": "A domain of the subject property.",
+    "o:id": 214,
+    "o:label": "domain",
+    "o:local_name": "domain",
+    "o:term": "rdfs:domain",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/371",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 371,
+    "o:label": "論文別表記タイトル",
+    "o:local_name": "field_efbec865-01a9-41c2-87e0-d0e0c5caedd2",
+    "o:term": "ex:field_efbec865-01a9-41c2-87e0-d0e0c5caedd2",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/10",
+        "o:id": 10
+    }
+}

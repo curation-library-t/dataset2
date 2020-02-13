@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/253",
+    "@type": "o:Property",
+    "o:comment": "当該情報資源が掲載されているページの範囲",
+    "o:id": 253,
+    "o:label": "Page Range",
+    "o:local_name": "pageRange",
+    "o:term": "dcndl:pageRange",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/8",
+        "o:id": 8
+    }
+}

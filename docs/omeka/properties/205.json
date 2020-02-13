@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/205",
+    "@type": "o:Property",
+    "o:comment": "A link from a Range to a Layer that provides the content resources of that Range",
+    "o:id": 205,
+    "o:label": "hasContentLayer",
+    "o:local_name": "hasContentLayer",
+    "o:term": "sc:hasContentLayer",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/6",
+        "o:id": 6
+    }
+}

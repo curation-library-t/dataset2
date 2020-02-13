@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/238",
+    "@type": "o:Property",
+    "o:comment": "原文の言語",
+    "o:id": 238,
+    "o:label": "Original Language",
+    "o:local_name": "originalLanguage",
+    "o:term": "dcndl:originalLanguage",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/8",
+        "o:id": 8
+    }
+}

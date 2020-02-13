@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/257",
+    "@type": "o:Property",
+    "o:comment": "参照先に関係のあるメタデータを持つ",
+    "o:id": 257,
+    "o:label": "Record",
+    "o:local_name": "record",
+    "o:term": "dcndl:record",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/8",
+        "o:id": 8
+    }
+}

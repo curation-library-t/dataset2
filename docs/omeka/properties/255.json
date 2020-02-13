@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/255",
+    "@type": "o:Property",
+    "o:comment": "当該情報資源をデジタル化した日付",
+    "o:id": 255,
+    "o:label": "Date Digitized",
+    "o:local_name": "dateDigitized",
+    "o:term": "dcndl:dateDigitized",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/8",
+        "o:id": 8
+    }
+}

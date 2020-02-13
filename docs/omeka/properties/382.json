@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/382",
+    "@type": "o:Property",
+    "o:comment": "Property to describe the link to the annotated manifest.",
+    "o:id": 382,
+    "o:label": "Annotated Manifest",
+    "o:local_name": "annotedManifest",
+    "o:term": "uterms:annotedManifest",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/11",
+        "o:id": 11
+    }
+}

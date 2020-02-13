@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/375",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 375,
+    "o:label": "雑誌名（NACSIS-CAT準拠）",
+    "o:local_name": "field_c8507c7b-98e7-45f1-aae7-7f011094549d",
+    "o:term": "ex:field_c8507c7b-98e7-45f1-aae7-7f011094549d",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/10",
+        "o:id": 10
+    }
+}

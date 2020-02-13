@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/204",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 204,
+    "o:label": "hasCanvases",
+    "o:local_name": "hasCanvases",
+    "o:term": "sc:hasCanvases",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/6",
+        "o:id": 6
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/386",
+    "@type": "o:Property",
+    "o:comment": "Property to describe the URI of IIIF Manifest.",
+    "o:id": 386,
+    "o:label": "Manifest Uri",
+    "o:local_name": "manifestUri",
+    "o:term": "uterms:manifestUri",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/11",
+        "o:id": 11
+    }
+}

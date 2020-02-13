@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/383",
+    "@type": "o:Property",
+    "o:comment": "Property to describe the property of UT OPAC.",
+    "o:id": 383,
+    "o:label": "文庫区分",
+    "o:local_name": "bunko",
+    "o:term": "uterms:bunko",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/11",
+        "o:id": 11
+    }
+}

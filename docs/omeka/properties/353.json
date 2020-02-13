@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/353",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 353,
+    "o:label": "専攻",
+    "o:local_name": "field_c40738d6-8e95-4f54-862f-a82dfee4bff4",
+    "o:term": "ex:field_c40738d6-8e95-4f54-862f-a82dfee4bff4",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/10",
+        "o:id": 10
+    }
+}

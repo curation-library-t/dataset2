@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/207",
+    "@type": "o:Property",
+    "o:comment": "An rdf:List of label/value pairs providing descriptive metadata about the resource, intended for human audience",
+    "o:id": 207,
+    "o:label": "metadataLabels",
+    "o:local_name": "metadataLabels",
+    "o:term": "sc:metadataLabels",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/6",
+        "o:id": 6
+    }
+}

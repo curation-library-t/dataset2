@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/276",
+    "@type": "o:Property",
+    "o:comment": "Volumeの読み又は翻字形",
+    "o:id": 276,
+    "o:label": "Volume Transcription",
+    "o:local_name": "volumeTranscription",
+    "o:term": "dcndl:volumeTranscription",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/8",
+        "o:id": 8
+    }
+}

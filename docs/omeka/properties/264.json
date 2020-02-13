@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/264",
+    "@type": "o:Property",
+    "o:comment": "当該レコードの状態",
+    "o:id": 264,
+    "o:label": "Record Status",
+    "o:local_name": "recordStatus",
+    "o:term": "dcndl:recordStatus",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/8",
+        "o:id": 8
+    }
+}

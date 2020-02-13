@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/220",
+    "@type": "o:Property",
+    "o:comment": "別タイトル",
+    "o:id": 220,
+    "o:label": "Alternative",
+    "o:local_name": "alternative",
+    "o:term": "dcndl:alternative",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/8",
+        "o:id": 8
+    }
+}

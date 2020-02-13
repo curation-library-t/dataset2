@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/201",
+    "@type": "o:Property",
+    "o:comment": "A string containing an attribution description that must be displayed when using the resource",
+    "o:id": 201,
+    "o:label": "attributionLabel",
+    "o:local_name": "attributionLabel",
+    "o:term": "sc:attributionLabel",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/6",
+        "o:id": 6
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/233",
+    "@type": "o:Property",
+    "o:comment": "当該情報資源の当該する巻又は部編に対し著作責任を持つ実体",
+    "o:id": 233,
+    "o:label": "Volume Creator",
+    "o:local_name": "volumeCreator",
+    "o:term": "dcndl:volumeCreator",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/8",
+        "o:id": 8
+    }
+}

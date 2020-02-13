@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/228",
+    "@type": "o:Property",
+    "o:comment": "別タイトル部編名",
+    "o:id": 228,
+    "o:label": "Alternative Volume Title",
+    "o:local_name": "alternativeVolumeTitle",
+    "o:term": "dcndl:alternativeVolumeTitle",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/8",
+        "o:id": 8
+    }
+}

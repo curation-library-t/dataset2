@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/254",
+    "@type": "o:Property",
+    "o:comment": "当該情報資源をデジタル化した実体",
+    "o:id": 254,
+    "o:label": "Digitized Publisher",
+    "o:local_name": "digitizedPublisher",
+    "o:term": "dcndl:digitizedPublisher",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/8",
+        "o:id": 8
+    }
+}

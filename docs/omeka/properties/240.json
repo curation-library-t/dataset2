@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/240",
+    "@type": "o:Property",
+    "o:comment": "販売価格",
+    "o:id": 240,
+    "o:label": "Price",
+    "o:local_name": "price",
+    "o:term": "dcndl:price",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/8",
+        "o:id": 8
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/225",
+    "@type": "o:Property",
+    "o:comment": "多巻ものの各巻タイトル又は逐次刊行物の部編名",
+    "o:id": 225,
+    "o:label": "Volume Title",
+    "o:local_name": "volumeTitle",
+    "o:term": "dcndl:volumeTitle",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/8",
+        "o:id": 8
+    }
+}

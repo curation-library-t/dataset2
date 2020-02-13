@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/244",
+    "@type": "o:Property",
+    "o:comment": "逐次刊行物の初号から終号までの巻次及び年月次",
+    "o:id": 244,
+    "o:label": "Volume Range",
+    "o:local_name": "volumeRange",
+    "o:term": "dcndl:volumeRange",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/8",
+        "o:id": 8
+    }
+}

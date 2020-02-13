@@ -1,0 +1,38 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/item_sets/75304",
+    "@type": "o:ItemSet",
+    "dcterms:title": [
+        {
+            "@value": "教育用資料 / Educational material",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-07-01T04:58:42+00:00"
+    },
+    "o:id": 75304,
+    "o:is_open": false,
+    "o:is_public": true,
+    "o:items": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/items?item_set_id=75304"
+    },
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-01-30T07:04:01+00:00"
+    },
+    "o:owner": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/users/4",
+        "o:id": 4
+    },
+    "o:resource_class": null,
+    "o:resource_template": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/resource_templates/11",
+        "o:id": 11
+    },
+    "o:thumbnail": null
+}

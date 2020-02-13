@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/295",
+    "@type": "o:Property",
+    "o:comment": "をも見よ参照（別名）",
+    "o:id": 295,
+    "o:label": "Another Name",
+    "o:local_name": "anotherName",
+    "o:term": "dcndl:anotherName",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/8",
+        "o:id": 8
+    }
+}

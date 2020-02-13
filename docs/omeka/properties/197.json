@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/197",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 197,
+    "o:label": "hasRanges",
+    "o:local_name": "hasRanges",
+    "o:term": "sc:hasRanges",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/6",
+        "o:id": 6
+    }
+}

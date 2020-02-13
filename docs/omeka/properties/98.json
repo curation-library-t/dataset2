@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/98",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 98,
+    "o:label": "identifier",
+    "o:local_name": "identifier",
+    "o:term": "bibo:identifier",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/3",
+        "o:id": 3
+    }
+}

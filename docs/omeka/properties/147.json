@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/147",
+    "@type": "o:Property",
+    "o:comment": "A homepage for some thing.",
+    "o:id": 147,
+    "o:label": "homepage",
+    "o:local_name": "homepage",
+    "o:term": "foaf:homepage",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/4",
+        "o:id": 4
+    }
+}

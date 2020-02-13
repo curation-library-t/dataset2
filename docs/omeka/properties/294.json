@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/294",
+    "@type": "o:Property",
+    "o:comment": "をも見よ参照（本名）",
+    "o:id": 294,
+    "o:label": "Real Name",
+    "o:local_name": "realName",
+    "o:term": "dcndl:realName",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/8",
+        "o:id": 8
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/242",
+    "@type": "o:Property",
+    "o:comment": "逐次刊行物の刊行頻度",
+    "o:id": 242,
+    "o:label": "Publication Periodicity",
+    "o:local_name": "publicationPeriodicity",
+    "o:term": "dcndl:publicationPeriodicity",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/8",
+        "o:id": 8
+    }
+}

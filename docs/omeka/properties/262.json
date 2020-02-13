@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/262",
+    "@type": "o:Property",
+    "o:comment": "所蔵する逐次刊行物の欠号に関する情報",
+    "o:id": 262,
+    "o:label": "Absent Issues",
+    "o:local_name": "absentIssues",
+    "o:term": "dcndl:absentIssues",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/8",
+        "o:id": 8
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/209",
+    "@type": "o:Property",
+    "o:comment": "References the sc:ViewingDirection that defines the direction that the resource should be viewed in",
+    "o:id": 209,
+    "o:label": "viewingDirection",
+    "o:local_name": "viewingDirection",
+    "o:term": "sc:viewingDirection",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/6",
+        "o:id": 6
+    }
+}

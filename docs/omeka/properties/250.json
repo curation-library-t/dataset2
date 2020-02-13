@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/250",
+    "@type": "o:Property",
+    "o:comment": "当該情報資源が属する刊行物の号",
+    "o:id": 250,
+    "o:label": "Number",
+    "o:local_name": "number",
+    "o:term": "dcndl:number",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/8",
+        "o:id": 8
+    }
+}

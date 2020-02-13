@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/230",
+    "@type": "o:Property",
+    "o:comment": "Creatorの別名又は異なる形",
+    "o:id": 230,
+    "o:label": "Creator Alternative",
+    "o:local_name": "creatorAlternative",
+    "o:term": "dcndl:creatorAlternative",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/8",
+        "o:id": 8
+    }
+}

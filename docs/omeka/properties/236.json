@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/236",
+    "@type": "o:Property",
+    "o:comment": "出版地・頒布地",
+    "o:id": 236,
+    "o:label": "Publication Place",
+    "o:local_name": "publicationPlace",
+    "o:term": "dcndl:publicationPlace",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/8",
+        "o:id": 8
+    }
+}

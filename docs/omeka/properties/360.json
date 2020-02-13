@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/360",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 360,
+    "o:label": "並列タイトル",
+    "o:local_name": "field_927fd62c-cb73-4358-9fe1-44e18cba4737",
+    "o:term": "ex:field_927fd62c-cb73-4358-9fe1-44e18cba4737",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/10",
+        "o:id": 10
+    }
+}

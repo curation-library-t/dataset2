@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/365",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 365,
+    "o:label": "代替資料",
+    "o:local_name": "field_fa244e18-7791-4510-bfb1-318d9231ec6f",
+    "o:term": "ex:field_fa244e18-7791-4510-bfb1-318d9231ec6f",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/10",
+        "o:id": 10
+    }
+}

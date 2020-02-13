@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/235",
+    "@type": "o:Property",
+    "o:comment": "当該情報資源が属する版に対し著作責任を持つ実体",
+    "o:id": 235,
+    "o:label": "Edition Creator",
+    "o:local_name": "editionCreator",
+    "o:term": "dcndl:editionCreator",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/8",
+        "o:id": 8
+    }
+}

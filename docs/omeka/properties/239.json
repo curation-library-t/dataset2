@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/239",
+    "@type": "o:Property",
+    "o:comment": "資料種別",
+    "o:id": 239,
+    "o:label": "Material Type",
+    "o:local_name": "materialType",
+    "o:term": "dcndl:materialType",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/8",
+        "o:id": 8
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/219",
+    "@type": "o:Property",
+    "o:comment": "読み又は翻字形",
+    "o:id": 219,
+    "o:label": "Transcription",
+    "o:local_name": "transcription",
+    "o:term": "dcndl:transcription",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/8",
+        "o:id": 8
+    }
+}

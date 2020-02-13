@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/213",
+    "@type": "o:Property",
+    "o:comment": "A human-readable name for the subject.",
+    "o:id": 213,
+    "o:label": "label",
+    "o:local_name": "label",
+    "o:term": "rdfs:label",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

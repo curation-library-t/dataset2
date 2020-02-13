@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/290",
+    "@type": "o:Property",
+    "o:comment": "dcndl:bibRecordCategoryの下位区分にあたる情報",
+    "o:id": 290,
+    "o:label": "Bibliographic Record Sub Category",
+    "o:local_name": "bibRecordSubCategory",
+    "o:term": "dcndl:bibRecordSubCategory",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/8",
+        "o:id": 8
+    }
+}

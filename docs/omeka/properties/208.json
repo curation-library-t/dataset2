@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/208",
+    "@type": "o:Property",
+    "o:comment": "A link from a Manifest or Sequence to the Canvas that the rendering agent should initialize their view with.",
+    "o:id": 208,
+    "o:label": "hasStartCanvas",
+    "o:local_name": "hasStartCanvas",
+    "o:term": "sc:hasStartCanvas",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/6",
+        "o:id": 6
+    }
+}

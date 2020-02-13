@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/232",
+    "@type": "o:Property",
+    "o:comment": "単行書の構成レベルの各著作に著作責任を持つ実体",
+    "o:id": 232,
+    "o:label": "Part Creator",
+    "o:local_name": "partCreator",
+    "o:term": "dcndl:partCreator",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/8",
+        "o:id": 8
+    }
+}

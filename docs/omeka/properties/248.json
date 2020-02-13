@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/248",
+    "@type": "o:Property",
+    "o:comment": "当該情報資源の作成者に博士号を授与した大学名",
+    "o:id": 248,
+    "o:label": "Degree Grantor",
+    "o:local_name": "degreeGrantor",
+    "o:term": "dcndl:degreeGrantor",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/8",
+        "o:id": 8
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/252",
+    "@type": "o:Property",
+    "o:comment": "当該情報資源の属する刊行物の巻",
+    "o:id": 252,
+    "o:label": "Publication Volume",
+    "o:local_name": "publicationVolume",
+    "o:term": "dcndl:publicationVolume",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/8",
+        "o:id": 8
+    }
+}

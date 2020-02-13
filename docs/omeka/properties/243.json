@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/243",
+    "@type": "o:Property",
+    "o:comment": "逐次刊行物の刊行状態",
+    "o:id": 243,
+    "o:label": "Publication Status",
+    "o:local_name": "publicationStatus",
+    "o:term": "dcndl:publicationStatus",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/8",
+        "o:id": 8
+    }
+}

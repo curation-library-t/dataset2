@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/378",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 378,
+    "o:label": "初ページ",
+    "o:local_name": "field_69c6c369-ed16-492a-a6a5-a1c1876f894a",
+    "o:term": "ex:field_69c6c369-ed16-492a-a6a5-a1c1876f894a",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/10",
+        "o:id": 10
+    }
+}

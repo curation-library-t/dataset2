@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/196",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 196,
+    "o:label": "hasSequences",
+    "o:local_name": "hasSequences",
+    "o:term": "sc:hasSequences",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/6",
+        "o:id": 6
+    }
+}

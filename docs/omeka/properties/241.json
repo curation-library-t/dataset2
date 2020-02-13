@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/241",
+    "@type": "o:Property",
+    "o:comment": "原資料の識別子",
+    "o:id": 241,
+    "o:label": "Source Identifier",
+    "o:local_name": "sourceIdentifier",
+    "o:term": "dcndl:sourceIdentifier",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/8",
+        "o:id": 8
+    }
+}

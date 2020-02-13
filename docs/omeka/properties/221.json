@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/221",
+    "@type": "o:Property",
+    "o:comment": "シリーズタイトル",
+    "o:id": 221,
+    "o:label": "Series Title",
+    "o:local_name": "seriesTitle",
+    "o:term": "dcndl:seriesTitle",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/8",
+        "o:id": 8
+    }
+}

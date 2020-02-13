@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/143",
+    "@type": "o:Property",
+    "o:comment": "The surname of some person.",
+    "o:id": 143,
+    "o:label": "Surname",
+    "o:local_name": "surname",
+    "o:term": "foaf:surname",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/4",
+        "o:id": 4
+    }
+}

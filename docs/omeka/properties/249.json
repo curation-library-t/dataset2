@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/249",
+    "@type": "o:Property",
+    "o:comment": "当該情報資源が属する刊行物の通号",
+    "o:id": 249,
+    "o:label": "Issue",
+    "o:local_name": "issue",
+    "o:term": "dcndl:issue",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/8",
+        "o:id": 8
+    }
+}

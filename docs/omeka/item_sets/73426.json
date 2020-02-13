@@ -1,0 +1,38 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/item_sets/73426",
+    "@type": "o:ItemSet",
+    "dcterms:title": [
+        {
+            "@value": "博士論文 / Doctoral dissertation",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-06-19T07:08:49+00:00"
+    },
+    "o:id": 73426,
+    "o:is_open": false,
+    "o:is_public": true,
+    "o:items": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/items?item_set_id=73426"
+    },
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-01-30T07:03:24+00:00"
+    },
+    "o:owner": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/users/4",
+        "o:id": 4
+    },
+    "o:resource_class": null,
+    "o:resource_template": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/resource_templates/11",
+        "o:id": 11
+    },
+    "o:thumbnail": null
+}

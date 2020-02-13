@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/384",
+    "@type": "o:Property",
+    "o:comment": "Property to describe database name.",
+    "o:id": 384,
+    "o:label": "Database Label",
+    "o:local_name": "databaseLabel",
+    "o:term": "uterms:databaseLabel",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/11",
+        "o:id": 11
+    }
+}

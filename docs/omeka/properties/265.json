@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/265",
+    "@type": "o:Property",
+    "o:comment": "出版者の所在に関する情報",
+    "o:id": 265,
+    "o:label": "Location",
+    "o:local_name": "location",
+    "o:term": "dcndl:location",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/8",
+        "o:id": 8
+    }
+}

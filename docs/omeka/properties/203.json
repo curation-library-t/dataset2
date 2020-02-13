@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/203",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 203,
+    "o:label": "hasManifests",
+    "o:local_name": "hasManifests",
+    "o:term": "sc:hasManifests",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/6",
+        "o:id": 6
+    }
+}

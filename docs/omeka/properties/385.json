@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/385",
+    "@type": "o:Property",
+    "o:comment": "Property to describe the link to TAPAS Project.",
+    "o:id": 385,
+    "o:label": "Link to TAPAS Project",
+    "o:local_name": "linkToTapas",
+    "o:term": "uterms:linkToTapas",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/11",
+        "o:id": 11
+    }
+}

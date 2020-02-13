@@ -1,0 +1,47 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/item_sets/72671",
+    "@type": "o:ItemSet",
+    "dcterms:description": [
+        {
+            "@value": "明治から昭和にかけての造船工学者であった山本武蔵東京帝国大学教授（1885-1947）が「明治前日本科学史」編纂委員を務めた際の関係資料をファイルしたもの",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "山本武蔵教授科學史編纂委員會関係文書",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-03-05T23:29:09+00:00"
+    },
+    "o:id": 72671,
+    "o:is_open": false,
+    "o:is_public": true,
+    "o:items": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/items?item_set_id=72671"
+    },
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-12-03T00:57:01+00:00"
+    },
+    "o:owner": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/resource_templates/11",
+        "o:id": 11
+    },
+    "o:thumbnail": null
+}

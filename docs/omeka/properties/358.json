@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/358",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 358,
+    "o:label": "姓　よみ",
+    "o:local_name": "field_10185d29-8ad6-49b8-9885-c031edaf9a2d",
+    "o:term": "ex:field_10185d29-8ad6-49b8-9885-c031edaf9a2d",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/10",
+        "o:id": 10
+    }
+}

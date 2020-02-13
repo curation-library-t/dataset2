@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/263",
+    "@type": "o:Property",
+    "o:comment": "当該情報資源のメタデータ記述に採用した目録規則",
+    "o:id": 263,
+    "o:label": "Cataloging Rule",
+    "o:local_name": "catalogingRule",
+    "o:term": "dcndl:catalogingRule",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/8",
+        "o:id": 8
+    }
+}

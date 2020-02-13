@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/153",
+    "@type": "o:Property",
+    "o:comment": "An agent that  made this thing.",
+    "o:id": 153,
+    "o:label": "maker",
+    "o:local_name": "maker",
+    "o:term": "foaf:maker",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/4",
+        "o:id": 4
+    }
+}

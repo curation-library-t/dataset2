@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/234",
+    "@type": "o:Property",
+    "o:comment": "当該情報資源が属する版",
+    "o:id": 234,
+    "o:label": "Edition",
+    "o:local_name": "edition",
+    "o:term": "dcndl:edition",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/8",
+        "o:id": 8
+    }
+}

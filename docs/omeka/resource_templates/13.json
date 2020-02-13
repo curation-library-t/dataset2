@@ -1,0 +1,223 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/resource_templates/13",
+    "@type": "o:ResourceTemplate",
+    "o:id": 13,
+    "o:label": "item",
+    "o:owner": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/users/4",
+        "o:id": 4
+    },
+    "o:resource_class": null,
+    "o:resource_template_property": [
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": "タイトル / Title",
+            "o:data_type": null,
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/1",
+                "o:id": 1
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": "著者・作成者 / Creator",
+            "o:data_type": null,
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/2",
+                "o:id": 2
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": "別表記タイトル / Other Title",
+            "o:data_type": null,
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/17",
+                "o:id": 17
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": "種別 / Type",
+            "o:data_type": null,
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/239",
+                "o:id": 239
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": "言語 / Language",
+            "o:data_type": null,
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/12",
+                "o:id": 12
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": "年月日 / Date",
+            "o:data_type": null,
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/7",
+                "o:id": 7
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": "NCID",
+            "o:data_type": null,
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/98",
+                "o:id": 98
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": "雑誌名 / Journal",
+            "o:data_type": null,
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/221",
+                "o:id": 221
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": "巻 / Volume",
+            "o:data_type": null,
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/226",
+                "o:id": 226
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": "号 / Number",
+            "o:data_type": null,
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/250",
+                "o:id": 250
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": "ページ数, 冊数 / Pages, Volumes",
+            "o:data_type": null,
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/253",
+                "o:id": 253
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": "大きさ / Size",
+            "o:data_type": null,
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/25",
+                "o:id": 25
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": "専攻 / Department",
+            "o:data_type": null,
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/265",
+                "o:id": 265
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": "注記 / Note",
+            "o:data_type": null,
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/4",
+                "o:id": 4
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": "代替資料 / Alternative Material",
+            "o:data_type": null,
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/220",
+                "o:id": 220
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": "請求記号 / Call Number",
+            "o:data_type": null,
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/259",
+                "o:id": 259
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": "所蔵図書室 / Holding Library",
+            "o:data_type": null,
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/258",
+                "o:id": 258
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": "タグ / Tag",
+            "o:data_type": null,
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/3",
+                "o:id": 3
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": "利用条件 / License",
+            "o:data_type": null,
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/15",
+                "o:id": 15
+            }
+        }
+    ]
+}

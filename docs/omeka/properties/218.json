@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/218",
+    "@type": "o:Property",
+    "o:comment": "A member of the subject resource.",
+    "o:id": 218,
+    "o:label": "member",
+    "o:local_name": "member",
+    "o:term": "rdfs:member",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

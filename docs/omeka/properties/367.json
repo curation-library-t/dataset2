@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/367",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 367,
+    "o:label": "確認済フラグ",
+    "o:local_name": "field_df43b532-0f4b-4caa-b3a8-482aae3a9b81",
+    "o:term": "ex:field_df43b532-0f4b-4caa-b3a8-482aae3a9b81",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/10",
+        "o:id": 10
+    }
+}

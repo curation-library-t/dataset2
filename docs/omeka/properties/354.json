@@ -1,0 +1,14 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation.library.t.u-tokyo.ac.jp/api/properties/354",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 354,
+    "o:label": "卒年１",
+    "o:local_name": "field_27f5bc06-6468-4061-952d-9d42cb734016",
+    "o:term": "ex:field_27f5bc06-6468-4061-952d-9d42cb734016",
+    "o:vocabulary": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/vocabularies/10",
+        "o:id": 10
+    }
+}
