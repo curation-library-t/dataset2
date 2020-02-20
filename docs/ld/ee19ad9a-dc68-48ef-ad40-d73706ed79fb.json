@@ -52,7 +52,7 @@
             "type": "literal"
         },
         {
-            "@value": "アルバムの末尾に「鹿島建設月報 =The Kajima monthly」(1977.3) pp.30-31 \"ジョン・ミルン夫妻のこと\"の複写物貼付あり。複写物画像は公開保留。",
+            "@value": "アルバムの末尾（16コマ目と17コマ目の間）に「鹿島建設月報 =The Kajima monthly」(1977.3) pp.30-31 \"ジョン・ミルン夫妻のこと\"の複写物貼付あり。複写物画像は公開保留。",
             "is_public": true,
             "property_id": 4,
             "property_label": "Description",
@@ -281,7 +281,7 @@
     ],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2020-02-07T09:32:09+00:00"
+        "@value": "2020-02-20T03:15:30+00:00"
     },
     "o:owner": {
         "@id": "https://curation.library.t.u-tokyo.ac.jp/api/users/4",
