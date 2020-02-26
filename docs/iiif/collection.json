@@ -2,7 +2,7 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "https://curation-library-t.github.io/dataset2/iiif/collection.json",
     "@type": "sc:Collection",
-    "created": "2020-02-26 02:20:18.396181",
+    "created": "2020-02-26 02:30:21.950845",
     "manifests": [
         {
             "@id": "https://curation-library-t.github.io/dataset2/iiif/item/dae85025-7751-41f7-845f-875ed66740b3/manifest.json",
