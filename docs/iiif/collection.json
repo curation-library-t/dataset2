@@ -2,7 +2,7 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "https://curation-library-t.github.io/dataset2/iiif/collection.json",
     "@type": "sc:Collection",
-    "created": "2020-02-28 08:40:19.108898",
+    "created": "2020-02-28 08:50:18.829363",
     "manifests": [
         {
             "@id": "https://curation-library-t.github.io/dataset2/iiif/item/dae85025-7751-41f7-845f-875ed66740b3/manifest.json",
@@ -4283,6 +4283,53 @@
                 }
             ],
             "thumbnail": "https://curation.library.t.u-tokyo.ac.jp/files/medium/50f7ad82dce13f26274cf4644cc270c8ed64f400.jpg"
+        },
+        {
+            "@id": "https://curation-library-t.github.io/dataset2/iiif/item/092b1bb6-9ecf-4900-aea1-818537317bcd/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Surveying [第一高等学校講義ノート]",
+            "license": "https://curation.library.t.u-tokyo.ac.jp/s/db/page/license",
+            "metadata": [
+                {
+                    "label": "タイトル / Title",
+                    "value": "Surveying [第一高等学校講義ノート]"
+                },
+                {
+                    "label": "著者・作成者 / Creator",
+                    "value": [
+                        "三井田 誠二",
+                        "Miida Seiji"
+                    ]
+                },
+                {
+                    "label": "種別 / Type",
+                    "value": "手稿 / Manuscript"
+                },
+                {
+                    "label": "言語 / Language",
+                    "value": [
+                        "日本語 / Japanese",
+                        "英語 / English"
+                    ]
+                },
+                {
+                    "label": "請求記号 / Call Number",
+                    "value": "II-no.34-2-14"
+                },
+                {
+                    "label": "所蔵図書室 / Holding Library",
+                    "value": "工2号館図書室 / Engineering Bldg. 2 Library"
+                },
+                {
+                    "label": "Identifier",
+                    "value": "092b1bb6-9ecf-4900-aea1-818537317bcd"
+                },
+                {
+                    "label": "Manifest Uri",
+                    "value": "https://curation.library.t.u-tokyo.ac.jp/iiif/092b1bb6-9ecf-4900-aea1-818537317bcd/manifest"
+                }
+            ],
+            "thumbnail": "https://curation.library.t.u-tokyo.ac.jp/files/medium/b4d50483b91bd37f402329b5fcc7874283e76837.jpg"
         },
         {
             "@id": "https://curation-library-t.github.io/dataset2/iiif/item/34c7cd3a-06b1-4847-a60e-52966ebf9e5e/manifest.json",
