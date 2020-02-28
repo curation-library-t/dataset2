@@ -2,7 +2,7 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "https://curation-library-t.github.io/dataset2/iiif/collection.json",
     "@type": "sc:Collection",
-    "created": "2020-02-28 08:20:16.591472",
+    "created": "2020-02-28 08:30:21.054279",
     "manifests": [
         {
             "@id": "https://curation-library-t.github.io/dataset2/iiif/item/dae85025-7751-41f7-845f-875ed66740b3/manifest.json",
@@ -2625,6 +2625,61 @@
             "thumbnail": "https://curation.library.t.u-tokyo.ac.jp/files/medium/1136d8f73ab21d7712adde09f653dfc60b5ed0a0.jpg"
         },
         {
+            "@id": "https://curation-library-t.github.io/dataset2/iiif/item/4e4e02d6-b3f6-4ace-b1fe-1ffa01934a81/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "石材の構築、建築 [工科大学機械工学科講義ノート]",
+            "license": "https://curation.library.t.u-tokyo.ac.jp/s/db/page/license",
+            "metadata": [
+                {
+                    "label": "タイトル / Title",
+                    "value": "石材の構築、建築 [工科大学機械工学科講義ノート]"
+                },
+                {
+                    "label": "著者・作成者 / Creator",
+                    "value": [
+                        "三井田 誠二",
+                        "Miida Seiji"
+                    ]
+                },
+                {
+                    "label": "種別 / Type",
+                    "value": "手稿 / Manuscript"
+                },
+                {
+                    "label": "言語 / Language",
+                    "value": [
+                        "日本語 / Japanese",
+                        "英語 / English"
+                    ]
+                },
+                {
+                    "label": "年月日 / Date",
+                    "value": "[1st Yr. Mech. Eng. [大正2年(1913)]]"
+                },
+                {
+                    "label": "専攻 / Department",
+                    "value": "機械工学科"
+                },
+                {
+                    "label": "請求記号 / Call Number",
+                    "value": "II-no.33-2-13"
+                },
+                {
+                    "label": "所蔵図書室 / Holding Library",
+                    "value": "工2号館図書室 / Engineering Bldg. 2 Library"
+                },
+                {
+                    "label": "Identifier",
+                    "value": "4e4e02d6-b3f6-4ace-b1fe-1ffa01934a81"
+                },
+                {
+                    "label": "Manifest Uri",
+                    "value": "https://curation.library.t.u-tokyo.ac.jp/iiif/4e4e02d6-b3f6-4ace-b1fe-1ffa01934a81/manifest"
+                }
+            ],
+            "thumbnail": "https://curation.library.t.u-tokyo.ac.jp/files/medium/d81f1dff576139b7f0685e70dc2c2e19ccfa6cbb.jpg"
+        },
+        {
             "@id": "https://curation-library-t.github.io/dataset2/iiif/item/2325d44c-5543-41b1-ac7e-0e46457d6268/manifest.json",
             "@type": "sc:Manifest",
             "label": "Torsion Test of Hollow Circular Bar",
@@ -4644,6 +4699,74 @@
                 }
             ],
             "thumbnail": "https://curation.library.t.u-tokyo.ac.jp/files/medium/aee598801d619fec2bce95ec65271df414a0ae19.jpg"
+        },
+        {
+            "@id": "https://curation-library-t.github.io/dataset2/iiif/item/9d5b1400-2b37-4d89-8b2a-d11d63801edb/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "震災録",
+            "license": "https://curation.library.t.u-tokyo.ac.jp/s/db/page/license",
+            "metadata": [
+                {
+                    "label": "タイトル / Title",
+                    "value": "震災録"
+                },
+                {
+                    "label": "著者・作成者 / Creator",
+                    "value": [
+                        "中埜 外志男",
+                        "Nakano Toshio"
+                    ]
+                },
+                {
+                    "label": "別表記タイトル / Other Title",
+                    "value": "Shinsairoku (Earthquake records in Japan)"
+                },
+                {
+                    "label": "種別 / Type",
+                    "value": "和装本 / Book bound in Eastern style"
+                },
+                {
+                    "label": "言語 / Language",
+                    "value": "日本語 / Japanese"
+                },
+                {
+                    "label": "年月日 / Date",
+                    "value": "明治13(1880)年11月"
+                },
+                {
+                    "label": "NCID",
+                    "value": "BB24313045"
+                },
+                {
+                    "label": "ページ数, 冊数 / Pages, Volumes",
+                    "value": "1冊"
+                },
+                {
+                    "label": "大きさ / Size",
+                    "value": "23.2×15.7cm"
+                },
+                {
+                    "label": "専攻 / Department",
+                    "value": "採鉱及冶金学科"
+                },
+                {
+                    "label": "所蔵図書室 / Holding Library",
+                    "value": "工4号館図書室 / Engineering Bldg. 4 Library"
+                },
+                {
+                    "label": "タグ / Tag",
+                    "value": "ジョン・ミルン / John Milne"
+                },
+                {
+                    "label": "Identifier",
+                    "value": "9d5b1400-2b37-4d89-8b2a-d11d63801edb"
+                },
+                {
+                    "label": "Manifest Uri",
+                    "value": "https://curation.library.t.u-tokyo.ac.jp/iiif/9d5b1400-2b37-4d89-8b2a-d11d63801edb/manifest"
+                }
+            ],
+            "thumbnail": "https://curation.library.t.u-tokyo.ac.jp/files/medium/20a7c6451d0dd59c7a6263bd55248f1ccef7b56d.jpg"
         },
         {
             "@id": "https://curation-library-t.github.io/dataset2/iiif/item/7567c3e0-a877-4ac7-8fc0-fa880927b056/manifest.json",
