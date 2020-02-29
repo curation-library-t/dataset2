@@ -1,0 +1,382 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation-library-t.github.io/dataset2/ld/5736c815-0919-416e-a661-859e21ba7cea.json",
+    "@type": "o:Item",
+    "bibo:identifier": [
+        {
+            "@value": "BB24155476",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcndl:holdingAgent": [
+        {
+            "@value": "工4号館図書室 / Engineering Bldg. 4 Library",
+            "is_public": true,
+            "property_id": 258,
+            "property_label": "Holding Agent",
+            "type": "literal"
+        }
+    ],
+    "dcndl:location": [
+        {
+            "@value": "冶金学科・鉱山学科",
+            "is_public": true,
+            "property_id": 265,
+            "property_label": "Location",
+            "type": "literal"
+        }
+    ],
+    "dcndl:materialType": [
+        {
+            "@value": "和装本 / Book bound in Eastern style",
+            "is_public": true,
+            "property_id": 239,
+            "property_label": "Material Type",
+            "type": "literal"
+        }
+    ],
+    "dcndl:pageRange": [
+        {
+            "@value": "1冊",
+            "is_public": true,
+            "property_id": 253,
+            "property_label": "Page Range",
+            "type": "literal"
+        }
+    ],
+    "dcndl:volume": [
+        {
+            "@value": "4",
+            "is_public": true,
+            "property_id": 226,
+            "property_label": "Volume",
+            "type": "literal"
+        }
+    ],
+    "dcterms:alternative": [
+        {
+            "@value": "鉄山秘書",
+            "is_public": true,
+            "property_id": 17,
+            "property_label": "Alternative Title",
+            "type": "literal"
+        },
+        {
+            "@value": "鉄山必要記事",
+            "is_public": true,
+            "property_id": 17,
+            "property_label": "Alternative Title",
+            "type": "literal"
+        },
+        {
+            "@value": "Tetsuzan Hisho (Tetsuzan's Secret Book)",
+            "is_public": true,
+            "property_id": 17,
+            "property_label": "Alternative Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:creator": [
+        {
+            "@language": "ja",
+            "@value": "下原 重仲",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Shimohara Shigenaka",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "享和3 [1803]",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "島根県立古代出雲歴史博物館により電子化",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:extent": [
+        {
+            "@value": "26.5×17.4cm",
+            "is_public": true,
+            "property_id": 25,
+            "property_label": "Extent",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "5736c815-0919-416e-a661-859e21ba7cea",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "uri"
+        }
+    ],
+    "dcterms:language": [
+        {
+            "@value": "日本語 / Japanese",
+            "is_public": true,
+            "property_id": 12,
+            "property_label": "Language",
+            "type": "literal"
+        }
+    ],
+    "dcterms:relation": [
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/s/db/record/5736c815-0919-416e-a661-859e21ba7cea",
+            "is_public": true,
+            "property_id": 13,
+            "property_label": "Relation",
+            "type": "uri"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/s/db/page/license",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "鐡山秘書　四",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-06-18T06:06:54+00:00"
+    },
+    "o:id": 73094,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/item_sets/73082",
+            "o:id": 73082
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/item_sets/75862",
+            "o:id": 75862
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/73199",
+            "o:id": 73199
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/73200",
+            "o:id": 73200
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/73201",
+            "o:id": 73201
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/73202",
+            "o:id": 73202
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/73203",
+            "o:id": 73203
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/73204",
+            "o:id": 73204
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/73205",
+            "o:id": 73205
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/73206",
+            "o:id": 73206
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/73207",
+            "o:id": 73207
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/73208",
+            "o:id": 73208
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/73209",
+            "o:id": 73209
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/73210",
+            "o:id": 73210
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/73211",
+            "o:id": 73211
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/73212",
+            "o:id": 73212
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/73213",
+            "o:id": 73213
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/73214",
+            "o:id": 73214
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/73215",
+            "o:id": 73215
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/73216",
+            "o:id": 73216
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/73217",
+            "o:id": 73217
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/73218",
+            "o:id": 73218
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/73219",
+            "o:id": 73219
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/73220",
+            "o:id": 73220
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/73221",
+            "o:id": 73221
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/73222",
+            "o:id": 73222
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/73223",
+            "o:id": 73223
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/73224",
+            "o:id": 73224
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/73225",
+            "o:id": 73225
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/73226",
+            "o:id": 73226
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/73227",
+            "o:id": 73227
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/73228",
+            "o:id": 73228
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/73229",
+            "o:id": 73229
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/73230",
+            "o:id": 73230
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/73231",
+            "o:id": 73231
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/73232",
+            "o:id": 73232
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/73233",
+            "o:id": 73233
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/73234",
+            "o:id": 73234
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/73235",
+            "o:id": 73235
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/73236",
+            "o:id": 73236
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/73237",
+            "o:id": 73237
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/73238",
+            "o:id": 73238
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-08-22T08:24:25+00:00"
+    },
+    "o:owner": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/users/4",
+        "o:id": 4
+    },
+    "o:resource_class": null,
+    "o:resource_template": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/resource_templates/13",
+        "o:id": 13
+    },
+    "o:thumbnail": null,
+    "uterms:manifestUri": [
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/5736c815-0919-416e-a661-859e21ba7cea/manifest",
+            "is_public": true,
+            "property_id": 386,
+            "property_label": "Manifest Uri",
+            "type": "uri"
+        }
+    ]
+}
