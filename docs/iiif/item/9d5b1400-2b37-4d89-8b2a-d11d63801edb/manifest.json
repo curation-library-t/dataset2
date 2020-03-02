@@ -57,7 +57,10 @@
         },
         {
             "label": "タグ / Tag",
-            "value": "ジョン・ミルン / John Milne"
+            "value": [
+                "ジョン・ミルン / John Milne",
+                "中野 外志男 / Nakano Toshio"
+            ]
         },
         {
             "label": "Identifier",
