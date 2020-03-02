@@ -151,6 +151,13 @@
             "property_id": 3,
             "property_label": "Subject",
             "type": "literal"
+        },
+        {
+            "@value": "中野 外志男 / Nakano Toshio",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
         }
     ],
     "dcterms:title": [
@@ -438,7 +445,7 @@
     ],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2020-02-28T08:22:20+00:00"
+        "@value": "2020-03-02T02:11:48+00:00"
     },
     "o:owner": {
         "@id": "https://curation.library.t.u-tokyo.ac.jp/api/users/4",
