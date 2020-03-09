@@ -100,14 +100,17 @@
     "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2020-03-09T09:42:18+00:00"
+        "@value": "2020-03-09T10:58:15+00:00"
     },
     "o:owner": {
         "@id": "https://curation.library.t.u-tokyo.ac.jp/api/users/4",
         "o:id": 4
     },
     "o:resource_class": null,
-    "o:resource_template": null,
+    "o:resource_template": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/resource_templates/11",
+        "o:id": 11
+    },
     "o:thumbnail": null,
     "uterms:manifestUri": [
         {
