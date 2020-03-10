@@ -1,0 +1,88 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://curation-library-t.github.io/dataset2/iiif/item/cb62d936-0296-457f-82a6-715175a4d9ee/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学工学・情報理工学図書館 Libraries for Engineering and Information Science & Technology, The University of Tokyo, JAPAN",
+    "description": "2019年度東京大学デジタルアーカイブズ構築事業により電子化",
+    "label": "[ネットー先生肖像写真]",
+    "license": "https://curation.library.t.u-tokyo.ac.jp/s/db/page/license",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "metadata": [
+        {
+            "label": "タイトル / Title",
+            "value": "[ネットー先生肖像写真]"
+        },
+        {
+            "label": "種別 / Type",
+            "value": "写真 / Photograph"
+        },
+        {
+            "label": "大きさ / Size",
+            "value": "30×21cm"
+        },
+        {
+            "label": "所蔵図書室 / Holding Library",
+            "value": "工3号館図書室 / Engineering Bldg. 3 Library"
+        },
+        {
+            "label": "タグ / Tag",
+            "value": [
+                "クルト・アドルフ・ネットー",
+                "クルト アドルフ ネットー",
+                "お雇い外国人",
+                "Curt Adolph Netto",
+                "employed foreigners"
+            ]
+        },
+        {
+            "label": "Identifier",
+            "value": "cb62d936-0296-457f-82a6-715175a4d9ee"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://curation.library.t.u-tokyo.ac.jp/iiif/cb62d936-0296-457f-82a6-715175a4d9ee/manifest"
+        }
+    ],
+    "related": "https://www.kanzaki.com/works/2016/pub/image-annotator?u=https://curation-library-t.github.io/dataset2/iiif/item/cb62d936-0296-457f-82a6-715175a4d9ee/manifest.json",
+    "seeAlso": "https://curation-library-t.github.io/dataset2/ld/cb62d936-0296-457f-82a6-715175a4d9ee.json",
+    "sequences": [
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/cb62d936-0296-457f-82a6-715175a4d9ee/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/cb62d936-0296-457f-82a6-715175a4d9ee/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 5003,
+                    "images": [
+                        {
+                            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/cb62d936-0296-457f-82a6-715175a4d9ee/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://curation.library.t.u-tokyo.ac.jp/iiif/cb62d936-0296-457f-82a6-715175a4d9ee/canvas/p1",
+                            "resource": {
+                                "@id": "https://curation.library.t.u-tokyo.ac.jp/files/original/cc9ba197a9b8a07860b83f56d925eb03e68249b5.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 5003,
+                                "width": 4402
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/cc9ba197a9b8a07860b83f56d925eb03e68249b5.jpg"
+                    },
+                    "width": 4402
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/files/medium/cc9ba197a9b8a07860b83f56d925eb03e68249b5.jpg"
+    },
+    "viewingDirection": "left-to-right",
+    "within": "https://curation.library.t.u-tokyo.ac.jp"
+}
