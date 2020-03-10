@@ -1,0 +1,165 @@
+{
+    "@context": "https://curation.library.t.u-tokyo.ac.jp/api-context",
+    "@id": "https://curation-library-t.github.io/dataset2/ld/673d2f25-aa13-4f8b-b597-f5bc28118962.json",
+    "@type": "o:Item",
+    "dcndl:holdingAgent": [
+        {
+            "@value": "工14号館図書室 / Engineering Bldg. 14 Library",
+            "is_public": true,
+            "property_id": 258,
+            "property_label": "Holding Agent",
+            "type": "literal"
+        }
+    ],
+    "dcndl:location": [
+        {
+            "@value": "都市工学科",
+            "is_public": true,
+            "property_id": 265,
+            "property_label": "Location",
+            "type": "literal"
+        }
+    ],
+    "dcndl:materialType": [
+        {
+            "@value": "図面 / Plan",
+            "is_public": true,
+            "property_id": 239,
+            "property_label": "Material Type",
+            "type": "literal"
+        }
+    ],
+    "dcterms:alternative": [
+        {
+            "@value": "華府導管構造図",
+            "is_public": true,
+            "property_id": 17,
+            "property_label": "Alternative Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "高山文庫",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:extent": [
+        {
+            "@value": "102×68cm",
+            "is_public": true,
+            "property_id": 25,
+            "property_label": "Extent",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "673d2f25-aa13-4f8b-b597-f5bc28118962",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "uri"
+        }
+    ],
+    "dcterms:language": [
+        {
+            "@value": "日本語 / Japanese",
+            "is_public": true,
+            "property_id": 12,
+            "property_label": "Language",
+            "type": "literal"
+        },
+        {
+            "@value": "英語 / English",
+            "is_public": true,
+            "property_id": 12,
+            "property_label": "Language",
+            "type": "literal"
+        }
+    ],
+    "dcterms:relation": [
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/s/db/record/673d2f25-aa13-4f8b-b597-f5bc28118962",
+            "is_public": true,
+            "property_id": 13,
+            "property_label": "Relation",
+            "type": "uri"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/s/db/page/license",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "華府導管構造圖. Conduit Construction, Washington.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-03-09T09:42:18+00:00"
+    },
+    "o:id": 80281,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/item_sets/75304",
+            "o:id": 75304
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/item_sets/75862",
+            "o:id": 75862
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/80305",
+            "o:id": 80305
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-03-10T03:32:28+00:00"
+    },
+    "o:owner": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/users/4",
+        "o:id": 4
+    },
+    "o:resource_class": null,
+    "o:resource_template": {
+        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/resource_templates/13",
+        "o:id": 13
+    },
+    "o:thumbnail": null,
+    "uterms:manifestUri": [
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/iiif/673d2f25-aa13-4f8b-b597-f5bc28118962/manifest",
+            "is_public": true,
+            "property_id": 386,
+            "property_label": "Manifest Uri",
+            "type": "uri"
+        }
+    ]
+}

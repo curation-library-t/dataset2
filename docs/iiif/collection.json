@@ -2,7 +2,7 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "https://curation-library-t.github.io/dataset2/iiif/collection.json",
     "@type": "sc:Collection",
-    "created": "2020-03-10 03:30:18.310513",
+    "created": "2020-03-10 03:40:19.860675",
     "manifests": [
         {
             "@id": "https://curation-library-t.github.io/dataset2/iiif/item/dae85025-7751-41f7-845f-875ed66740b3/manifest.json",
@@ -8161,6 +8161,54 @@
                 }
             ],
             "thumbnail": "https://curation.library.t.u-tokyo.ac.jp/files/medium/df527b3fec23fdb3baa5512f3d757d8a7c02a889.jpg"
+        },
+        {
+            "@id": "https://curation-library-t.github.io/dataset2/iiif/item/673d2f25-aa13-4f8b-b597-f5bc28118962/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "華府導管構造圖. Conduit Construction, Washington.",
+            "license": "https://curation.library.t.u-tokyo.ac.jp/s/db/page/license",
+            "metadata": [
+                {
+                    "label": "タイトル / Title",
+                    "value": "華府導管構造圖. Conduit Construction, Washington."
+                },
+                {
+                    "label": "別表記タイトル / Other Title",
+                    "value": "華府導管構造図"
+                },
+                {
+                    "label": "種別 / Type",
+                    "value": "図面 / Plan"
+                },
+                {
+                    "label": "言語 / Language",
+                    "value": [
+                        "日本語 / Japanese",
+                        "英語 / English"
+                    ]
+                },
+                {
+                    "label": "大きさ / Size",
+                    "value": "102×68cm"
+                },
+                {
+                    "label": "専攻 / Department",
+                    "value": "都市工学科"
+                },
+                {
+                    "label": "所蔵図書室 / Holding Library",
+                    "value": "工14号館図書室 / Engineering Bldg. 14 Library"
+                },
+                {
+                    "label": "Identifier",
+                    "value": "673d2f25-aa13-4f8b-b597-f5bc28118962"
+                },
+                {
+                    "label": "Manifest Uri",
+                    "value": "https://curation.library.t.u-tokyo.ac.jp/iiif/673d2f25-aa13-4f8b-b597-f5bc28118962/manifest"
+                }
+            ],
+            "thumbnail": "https://curation.library.t.u-tokyo.ac.jp/files/medium/576cc14dcd55d108575a6c7e091f0597b193a7a7.jpg"
         },
         {
             "@id": "https://curation-library-t.github.io/dataset2/iiif/item/08aa97a3-9675-4e36-9f11-fbb3d7b65b74/manifest.json",
