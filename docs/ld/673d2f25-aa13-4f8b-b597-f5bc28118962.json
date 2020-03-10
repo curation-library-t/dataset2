@@ -11,9 +11,18 @@
             "type": "literal"
         }
     ],
+    "dcndl:materialType": [
+        {
+            "@value": "/ Plan",
+            "is_public": true,
+            "property_id": 239,
+            "property_label": "Material Type",
+            "type": "literal"
+        }
+    ],
     "dcterms:alternative": [
         {
-            "@value": "大震災ニ基因スル燒失域及残存建築物配置図（横）",
+            "@value": "華府導管構",
             "is_public": true,
             "property_id": 17,
             "property_label": "Alternative Title",
@@ -22,7 +31,7 @@
     ],
     "dcterms:extent": [
         {
-            "@value": "119×86cm",
+            "@value": "102×68cm",
             "is_public": true,
             "property_id": 25,
             "property_label": "Extent",
@@ -83,7 +92,7 @@
     ],
     "dcterms:title": [
         {
-            "@value": "大震災ニ基因スル燒失區域及残存建築物配置図（横濱）",
+            "@value": "華府導管構造圖. Conduit Construction, Washington.",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
@@ -94,23 +103,53 @@
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
         "@value": "2020-03-09T09:42:18+00:00"
     },
-    "o:id": 80288,
+    "o:id": 80281,
     "o:is_public": true,
     "o:item_set": [],
-    "o:media": [],
+    "o:media": [
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/80305",
+            "o:id": 80305
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/80306",
+            "o:id": 80306
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/80307",
+            "o:id": 80307
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/80308",
+            "o:id": 80308
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/80309",
+            "o:id": 80309
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/80310",
+            "o:id": 80310
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/80311",
+            "o:id": 80311
+        },
+        {
+            "@id": "https://curation.library.t.u-tokyo.ac.jp/api/media/80312",
+            "o:id": 80312
+        }
+    ],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2020-03-09T10:58:15+00:00"
+        "@value": "2020-03-09T09:42:18+00:00"
     },
     "o:owner": {
         "@id": "https://curation.library.t.u-tokyo.ac.jp/api/users/4",
         "o:id": 4
     },
     "o:resource_class": null,
-    "o:resource_template": {
-        "@id": "https://curation.library.t.u-tokyo.ac.jp/api/resource_templates/11",
-        "o:id": 11
-    },
+    "o:resource_template": null,
     "o:thumbnail": null,
     "uterms:manifestUri": [
         {
